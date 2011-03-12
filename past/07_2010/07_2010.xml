@@ -1,0 +1,1223 @@
+<?xml version="1.0" standalone="no" ?>
+<journals>
+  <opercard>
+    <operator>ХвШ|Костенчук М. И.</operator>
+    <date>2010-10-25_00:24:08</date>
+  </opercard>
+  <journal>
+    <journalInfo lang="RUS">
+      <jrntitle>Химия в школе</jrntitle>
+      <publ>ООО "Центрхимпресс"</publ>
+      <placepubl>Москва</placepubl>
+      <loc>Москва, ул. П. Корчагина, д. 7</loc>
+    </journalInfo>
+    <issue>
+      <issn>0368-5632</issn>
+      <jrncode>03685632</jrncode>
+      <jnumUni>07</jnumUni>
+      <jdateUni>201010</jdateUni>
+      <pages>1-7679</pages>
+        <article>
+          <fpageart>2</fpageart>
+          <lpageart>6</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Еремин</surname>
+                <fname>В.В.</fname>
+                <auadr>Москва</auadr>
+                <auwork>МГУ им. М.В.Ломоносова</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Eremin</surname>
+                <fname>V. V.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>Moscow State University Named After M.V. Lomonosov</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Международная химическая олимпиада: успехи, ошибки, разочарования</arttitle>
+            <arttitle lang="ENG">International Chemical Olympiad: progress, mistakes, disappointments</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Подведены и проанализированы итоги Международной химической олимпиады (МХО) 2010 года. С привлечением статистических данных сравниваются различные подходы к составлению задач для МХО. Обсуждены перспективы развития МХО.</abstract>
+            <abstract lang="ENG">The results of International Chemistry Olympiad (IChO) of 2010 are analyzed. Various approaches to composing the IChO problems are discussed on the basis of statistical data.  The future prospects of IChO are discussed.</abstract>
+          </abstracts>
+          <arttype>REV</arttype>
+          <text lang="RUS" arttype="REV">Международная химическая олимпиада: успехи, ошибки, разочарования
+
+           Подведены и проанализированы итоги Международной химической олимпиады (МХО) 2010 года. С привлечением статистических данных сравниваются различные подходы к составлению задач для МХО. Обсуждены перспективы развития МХО.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>Международная химическая олимпиада</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>International chemistry Olympiad</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>6</fpageart>
+          <lpageart></lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Хмельков</surname>
+                <fname>С. Б.</fname>
+                <auadr>Москва</auadr>
+                <auwork>Заместитель заведующего правовым отделом аппарата Общероссийского профсоюза образования</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Khmel’kov</surname>
+                <fname>S. B.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>Associate Head of the Legal Department of the Administration of the All-Russian Trade Union of the Education</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">А как по закону?..</arttitle>
+            <arttitle lang="ENG">And what does the law say?..</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Заместитель заведующего правовым отделом аппарата Общероссийского профсоюза образования отвечает на вопросы читателей журнала.</abstract>
+            <abstract lang="ENG">Associate Head of the Legal Department of the Administration of the All-Russian Trade Union of the Education is answering our readers’ questions.</abstract>
+          </abstracts>
+          <arttype>COR</arttype>
+          <text lang="RUS" arttype="COR">А как по закону?..
+
+           Заместитель заведующего правовым отделом аппарата Общероссийского профсоюза образования отвечает на вопросы читателей журнала.
+
+          </text>
+          <nokeywords />
+          <nobiblist />
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Наука и промышленность</segtitle>
+          <segtitle lang="ENG">Science and Industry</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>7</fpageart>
+          <lpageart>10</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Бердоносов</surname>
+                <fname>С. С.</fname>
+                <auadr>Москва</auadr>
+                <auwork>МГУ им. М.В.Ломоносова</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Berdonosov</surname>
+                <fname>S.S.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>Moscow State University Named After M.V. Lomonosov</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Получен элемент № 117</arttitle>
+            <arttitle lang="ENG">Element # 117 has been isolated</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">В подмосковной Дубне впервые получены атомы элемента № 117. До последнего времени исследования ученых из России, США, Германии, Швейцарии и некоторых других стран позволили получить информацию о существовании атомов элементов с атомными номерами вплоть до 118, но среди них не было атомов элемента № 117.</abstract>
+            <abstract lang="ENG">In the Moscow Region Town of Dubna atoms of element # 117 have been
+isolated for the first time ever. Until recently research of scientists
+from Russia, the USA, Germany, Switzerland, and some other countries
+allowed receiving the information regarding existence of atoms of elements
+with atomic numbers up to 118, but there were no any atoms of element # 117
+among them.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Получен элемент № 117
+
+           В подмосковной Дубне впервые получены атомы элемента № 117. До последнего времени исследования ученых из России, США, Германии, Швейцарии и некоторых других стран позволили получить информацию о существовании атомов элементов с атомными номерами вплоть до 118, но среди них не было атомов элемента № 117.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>элемент</keyword>
+              <keyword> получение элемента</keyword>
+              <keyword> сверхтяжёлые элементы</keyword>
+              <keyword> мишень</keyword>
+              <keyword> ядро</keyword>
+              <keyword> нуклид</keyword>
+              <keyword> изотопы</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>element</keyword>
+              <keyword> receiving element</keyword>
+              <keyword> superheavy elements</keyword>
+              <keyword> target</keyword>
+              <keyword> nucleus</keyword>
+              <keyword> nuclide</keyword>
+              <keyword> isotopes</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Методика и обмен опытом</segtitle>
+          <segtitle lang="ENG">Methods and Experience Exchange</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>11</fpageart>
+          <lpageart>15</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Шалашова</surname>
+                <fname>М.М.</fname>
+                <auadr>Арзамас</auadr>
+                <auwork>АГПИ им. А. П. Гайдара</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Shalashova</surname>
+                <fname>M.M.</fname>
+                <auadr>Arzamas</auadr>
+                <auwork>Arzamas State Pedagogical Institute named after A.P. Gaidar</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">К методике оценивания химических компетенций</arttitle>
+            <arttitle lang="ENG">On methods of estimation of chemical competencies</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Новые требования к результатам образования обозначили необходимость разработки системы оценивания компетенций учащихся, которые мы рассматриваем как показатель качества подготовки выпускников школ. Отмечена эффективность комплексного подхода к оцениванию учебных достижений, осуществляемого с помощью традиционного и инновационного инструментария, применения накопительной системы учета результатов и вычисления рейтингового балла.</abstract>
+            <abstract lang="ENG">New demands for the results of education marked the necessity of the development of the estimation system of students’ competence which we consider to be the indicator of the quality of school-leavers’ training. The author of the article mentions the effectiveness of complex approach to the estimation of school achievements done with the help of traditional and innovative tools. The author also pays attention to the effectiveness of the application of accumulating accountant system of results and calculation of rating number.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">К методике оценивания химических компетенций
+
+           Новые требования к результатам образования обозначили необходимость разработки системы оценивания компетенций учащихся, которые мы рассматриваем как показатель качества подготовки выпускников школ. Отмечена эффективность комплексного подхода к оцениванию учебных достижений, осуществляемого с помощью традиционного и инновационного инструментария, применения накопительной системы учета результатов и вычисления рейтингового балла.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>компетентностный подход</keyword>
+              <keyword> химические компетенции</keyword>
+              <keyword> комплексный подход к оцениванию учебных достижений</keyword>
+              <keyword> инструментарий измерения</keyword>
+              <keyword> рейтинговый балл</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>competence approach</keyword>
+              <keyword> chemical competences</keyword>
+              <keyword> complex approach to estimating learning achievements</keyword>
+              <keyword> measuring tools</keyword>
+              <keyword> rating point</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>Шалашова М. М. Новое в оценивании образовательных достижений учащихся на основе компетентностного подхода: Монография. – Арзамас: АГПИ, 2009.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <article>
+          <fpageart>15</fpageart>
+          <lpageart>19</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Соколова</surname>
+                <fname>О. Н.</fname>
+                <auadr>г. Рыбинск</auadr>
+                <auwork>СШ № 3</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Sokolova</surname>
+                <fname>O.N.</fname>
+                <auadr>the town of Rybinsk</auadr>
+                <auwork>Secondary School №3</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Об использовании элементов музейной педагогики на уроках химии</arttitle>
+            <arttitle lang="ENG">About using elements of museum pedagogics at chemistry lessons</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Один из путей развития общей культуры школьников – приобщение их к ценностям музеев родной школы и города. Включение элементов музейной педагогики в образовательный процесс активизирует школьников, мобилизует и развивает их способности, стимулирует любознательность. Автор рассказывает о возможности применения элементов музейной педагогики на уроках химии.</abstract>
+            <abstract lang="ENG">One of the ways of developing fundamental culture of schoolchildren is
+getting them joined museum values of the native school and their town.
+Including elements of museum pedagogics into an educational process
+activates schoolchildren, mobilizes and develops their abilities, and
+stimulates curiosity. The author narrates about an opportunity of using
+elements of museum pedagogics at chemistry lessons.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Об использовании элементов музейной педагогики на уроках химии
+
+           Один из путей развития общей культуры школьников – приобщение их к ценностям музеев родной школы и города. Включение элементов музейной педагогики в образовательный процесс активизирует школьников, мобилизует и развивает их способности, стимулирует любознательность. Автор рассказывает о возможности применения элементов музейной педагогики на уроках химии.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>музейная педагогика</keyword>
+              <keyword> уроки химии</keyword>
+              <keyword> природный газ</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Museum pedagogics</keyword>
+              <keyword> chemistry lessons</keyword>
+              <keyword> natural gas</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>Якимов И. А. Музейная педагогика и диверсификация образовательного пространства // Пути преодоления школьных перегрузок за счёт развития межпредметных связей и создания ситуации успешности для каждого ребёнка. – М., 2007.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <article>
+          <fpageart>19</fpageart>
+          <lpageart>25</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Рутина</surname>
+                <fname>О. П.</fname>
+                <auadr>Соликамский р-н, Пермский край</auadr>
+                <auwork>Родниковская СШ</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Rutina</surname>
+                <fname>O.P.</fname>
+                <auadr>Solikamsky Region, Permsly Area</auadr>
+                <auwork>Rodnikovskaya Secondary School</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Коллективные способы обучения на занятиях по органической химии</arttitle>
+            <arttitle lang="ENG">Team ways of training at organic chemistry classes</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Использование коллективых способов организации учебной деятельности  в полной мере позволяет решить непростые задачи формирования у учащихся не только способностей самостоятельно мыслить, добывать и применять знания, но и ключевых компетенций, включающих умения организовать собственную учебную деятельность, эффективно сотрудничать в разнообразных группах, быть открытыми для новых контактов, способность принимать ответственное решение в сложной ситуации. Приведены дидактические карточки для работы по методике взаимообмена заданиями по методике Ривина – Баженова при изучении углеводородов.</abstract>
+            <abstract lang="ENG">Using team ways of organizing learning activity allows to the full extent
+to settle complex tasks of forming not only abilities of students to think
+independently, to get and apply knowledge, but also forming of key
+competencies, which include skills to organize their own learning activity,
+to collaborate in diversified teams, to be open for new contacts, and the
+ability to make decisions in a complicated situation. Didactic cards for
+working following methods of task mutual exchange based on Rivin-Bazhenov
+principles while studying hydrocarbons are offered.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Коллективные способы обучения на занятиях по органической химии
+
+           Использование коллективых способов организации учебной деятельности  в полной мере позволяет решить непростые задачи формирования у учащихся не только способностей самостоятельно мыслить, добывать и применять знания, но и ключевых компетенций, включающих умения организовать собственную учебную деятельность, эффективно сотрудничать в разнообразных группах, быть открытыми для новых контактов, способность принимать ответственное решение в сложной ситуации. Приведены дидактические карточки для работы по методике взаимообмена заданиями по методике Ривина – Баженова при изучении углеводородов.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>коллективные способы обучения</keyword>
+              <keyword> взаимообмен заданиями</keyword>
+              <keyword> углеводороды</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Team ways of learning</keyword>
+              <keyword> task interchange</keyword>
+              <keyword> hydrocarbons</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>26</fpageart>
+          <lpageart>30</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Пильникова</surname>
+                <fname>Н. Н.</fname>
+                <auadr>г. Челябинск</auadr>
+                <auwork>СШ № 147</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Pilnikova</surname>
+                <fname>N.N.</fname>
+                <auadr>Chelyabinsk</auadr>
+                <auwork>Secondary School № 147</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Интегративно-гуманитарный подход при изучении металлов</arttitle>
+            <arttitle lang="ENG">Integrative and humanitarian approach while studying metals</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Автор предлагает интегративно-гуманитарный подход к обучению химии, в основе которого лежит интеграция естественно-научных и гуманитарных знаний. Основным механизмом и средством интеграции при этом выступают внутри- и межпредметные связи. Приводит разработку обобщающего урока химии в 9 классе по теме «Металлы», построенного на основе интегративно-гуманитарного подхода.</abstract>
+            <abstract lang="ENG">The author offers an integrative and humanitarian approach to teaching
+chemistry, in the basis of which there is an integration of natural and
+humanitarian knowledge, in which intra- and inter-subject connections play
+the role of the main mechanism and an integration mean. The author also
+provides a design of the feedback chemistry lesson in the 9th Form on the
+subject of “Metals” based on integrative and humanitarian approach.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Интегративно-гуманитарный подход при изучении металлов
+
+           Автор предлагает интегративно-гуманитарный подход к обучению химии, в основе которого лежит интеграция естественно-научных и гуманитарных знаний. Основным механизмом и средством интеграции при этом выступают внутри- и межпредметные связи. Приводит разработку обобщающего урока химии в 9 классе по теме «Металлы», построенного на основе интегративно-гуманитарного подхода.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>интегративно-гуманитарный подход</keyword>
+              <keyword> металлы</keyword>
+              <keyword> игра</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Integrative and humanitarian approach</keyword>
+              <keyword> metals</keyword>
+              <keyword> game</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>31</fpageart>
+          <lpageart>39</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Дорофеев</surname>
+                <fname>М. В.</fname>
+                <auadr>Москва</auadr>
+                <auwork>Московский институт открытого образования</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Dorofeev</surname>
+                <fname>M.V.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>The Moscow Institute of Open Education</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Стунеева</surname>
+                <fname>Ю. Б.</fname>
+                <auadr>Москва</auadr>
+                <auwork>СШ № 528</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Stuneeva</surname>
+                <fname>Yu. B.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>Secondary School № 528</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Использование сервисов Всемирной паутины в процессе обучения</arttitle>
+            <arttitle lang="ENG">Services of the World Wide Web to Teach Chemistry</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Предложены различные варианты использования бесплатных общедоступных сервисов Всемирной паутины в обучении химии. Показано, как можно разнообразить познавательную деятельность школьников на уроках и во внеурочное время, если организовать работу с генератором названий веществ (on-line naming service IUPAC) и с виртуальной химической лабораторией (IrYdium Chemistry Lab). Рассмотрены примеры применения видеоматериалов, доступных на YouTube, для активизации познавательной активности и развития критического мышления учащихся. Установлено, что ведущим условием высокой педагогической эффективности применения рассмотренных сервисов Интернет является их нацеленность на развитие ключевых информационно-коммуникативных компетенций школьников.</abstract>
+            <abstract lang="ENG">Proposed use of free services of the World Wide Web to teach chemistry. Shows how you can diversify students' knowing activity if to use on-line naming service IUPAC and virtual chemical laboratory (IrYdium Chemistry lab). Considered examples of video available on YouTube, for enhancing cognitive activity and development of critical thinking. Found that leading condition high educational effectiveness of reviewed Internet services is their focus on the development of key information and communicative competence schoolchildren.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Использование сервисов Всемирной паутины в процессе обучения
+
+           Предложены различные варианты использования бесплатных общедоступных сервисов Всемирной паутины в обучении химии. Показано, как можно разнообразить познавательную деятельность школьников на уроках и во внеурочное время, если организовать работу с генератором названий веществ (on-line naming service IUPAC) и с виртуальной химической лабораторией (IrYdium Chemistry Lab). Рассмотрены примеры применения видеоматериалов, доступных на YouTube, для активизации познавательной активности и развития критического мышления учащихся. Установлено, что ведущим условием высокой педагогической эффективности применения рассмотренных сервисов Интернет является их нацеленность на развитие ключевых информационно-коммуникативных компетенций школьников.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>сервисы Всемирной паутины</keyword>
+              <keyword> генератор названий веществ</keyword>
+              <keyword> виртуальная лаборатория</keyword>
+              <keyword> моделирование химического эксперимента</keyword>
+              <keyword> анализ видеоматериалов</keyword>
+              <keyword> видеохостинг YouTube</keyword>
+              <keyword> критическое мышление</keyword>
+              <keyword> информационно-коммуникативные компетенции</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>World Wide Web services</keyword>
+              <keyword> substance name generator</keyword>
+              <keyword> virtual laboratory</keyword>
+              <keyword> modeling chemical experiment</keyword>
+              <keyword> video-materials analysis</keyword>
+              <keyword> video-hosting YouTube</keyword>
+              <keyword> critical thinking</keyword>
+              <keyword> informational and communicative competencies</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>1. Белл Д. Грядущее постиндустриальное общество: опыт социального прогнозирования. – М.: Академия, 1999.
+
+            </blistpart>
+            <blistpart>2. Новиков А. М. Постиндустриальное образование. – М.: Эгвес, 2008.
+
+            </blistpart>
+            <blistpart>3. Национальная образовательная инициатива «Наша новая школа» (проект) // Сервер Министерства образования и науки Российской Федерации http://mon.gov.ru/press/news/5233http://mon.gov.ru/press/news/5233 . – С. 4.
+
+            </blistpart>
+            <blistpart>4. Новиков А. М. Развитие отечественного образования / Полемические размышления. – М.: Эгвес, 2005. – С. 82–96.
+
+            </blistpart>
+            <blistpart>5. Журин А. А., Гончарук О. Ю. Художественные видеофильмы на уроках химии // Химия в школе. – 2001. – № 3. – C. 55–60.
+
+            </blistpart>
+            <blistpart>6. Мусаев Ю. И., Мусаева Э. Б., Гринёва Л. Г. О названиях органических соединений по правилам ИЮПАК // Химия в школе. – 2009. – № 5. – С. 49–54.
+
+            </blistpart>
+            <blistpart>7. Кан Р., Дермер О. Введение в химическую номенклатуру: Пер. с англ. / Под ред. В. М. Потапова и Р. А. Лидина. – М.: Химия, 1983. – С. 66.
+
+            </blistpart>
+            <blistpart>8. Малеева В. Ф. Обобщающий урок по теме «Азотсодержащие органические соединения» // Химия в школе. – 2007. – № 3. – С. 25–29.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <article>
+          <fpageart>39</fpageart>
+          <lpageart>41</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Егорина</surname>
+                <fname>М. Н.</fname>
+                <auadr>республика Бурятия</auadr>
+                <auwork>Багдаринсая эвенкийская школа-интернат</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Egorina</surname>
+                <fname>M.N.</fname>
+                <auadr>the Republic of Buryatiya</auadr>
+                <auwork>Bagdarinskaya Evenki boarding school</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Как мы оформляем решение расчётных задач</arttitle>
+            <arttitle lang="ENG">The way we present the solution of computative tasks</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Для оформления условия задачи автор предлагает использовать не краткую запись, как на уроках физики, а развёрнутую схему, отражающую суть химического процесса. Затем в ходе решения по схеме затем составляют уравнение реакции, обсуждают с учащимися порядок действий и оформляют его в виде логической цепочки решения (алгоритма), содержащего кроме порядка действий необходимые для расчёта формулы.</abstract>
+            <abstract lang="ENG">To formulate task conditions, the author suggests, that they should use not
+the short form, as at physics lessons, but rather an expanded scheme, which
+reflects the essence of a chemical process. Then in the course of the task-
+solving they compile the equation, discuss with students the order of
+actions and formulate it in the form of a logical chain of solving
+(algorithm), which contains, except of the order of actions, necessary for
+calculations formulas.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Как мы оформляем решение расчётных задач
+
+           Для оформления условия задачи автор предлагает использовать не краткую запись, как на уроках физики, а развёрнутую схему, отражающую суть химического процесса. Затем в ходе решения по схеме затем составляют уравнение реакции, обсуждают с учащимися порядок действий и оформляют его в виде логической цепочки решения (алгоритма), содержащего кроме порядка действий необходимые для расчёта формулы.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>Расчетные задачи</keyword>
+              <keyword> алгоритм решения</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>computation</keyword>
+              <keyword> solution algorithm</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>41</fpageart>
+          <lpageart>43</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Демидов</surname>
+                <fname>В. А.</fname>
+                <auadr>с. Синегорье, Кировская обл.</auadr>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Demidov</surname>
+                <fname>V. A.</fname>
+                <auadr>the settlement of Sinegorye, the Kirov Region</auadr>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Тестовые задания по теме «Азот и его соединения»</arttitle>
+            <arttitle lang="ENG">Test tasks on the subject of “Nitrogen and its compounds”</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Предложены три варианта разноуровневых тестовых заданий по теме «Азот и его соединения».</abstract>
+            <abstract lang="ENG">Three variants of test tasks of different levels on the subject of
+“Nitrogen and its compounds” are offered.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Тестовые задания по теме «Азот и его соединения»
+
+           Предложены три варианта разноуровневых тестовых заданий по теме «Азот и его соединения».
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>тесты</keyword>
+              <keyword> азот</keyword>
+              <keyword> соединения азота</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>tests</keyword>
+              <keyword> nitrogen</keyword>
+              <keyword> nitrogen compounds</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>43</fpageart>
+          <lpageart>45</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Четверин</surname>
+                <fname>В. Б.</fname>
+                <auadr>Москва</auadr>
+                <auwork>Центр образования № 548 «Царицыно»</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Chetverin</surname>
+                <fname>V. B.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>Educational center # 548 “Tsaritsyno”</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">О содержании заданий ЕГЭ по органической химии</arttitle>
+            <arttitle lang="ENG">About the content of organic chemistry tasks of the Unified State Exam</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">В статье обсуждаются некоторые проблемы, связанные с использованием современных заданий ЕГЭ. В частности, анализируются конкретные примеры неточностей и ошибок, которые ещё встречаются даже в публикуемых образцах контрольных измерительных материалов. Высказывается ряд предложений по дальнейшему совершенствованию заданий.</abstract>
+            <abstract lang="ENG">Certain problems connected with using modern tasks of the United State Exam
+are discussed in the article. Particularly, examples of indiscretions and
+mistakes, which can be still met even in the published samples of
+controlling and measuring materials. A number of suggestions is expressed
+on the further tasks improvement.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">О содержании заданий ЕГЭ по органической химии
+
+           В статье обсуждаются некоторые проблемы, связанные с использованием современных заданий ЕГЭ. В частности, анализируются конкретные примеры неточностей и ошибок, которые ещё встречаются даже в публикуемых образцах контрольных измерительных материалов. Высказывается ряд предложений по дальнейшему совершенствованию заданий.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>задания ЕГЭ</keyword>
+              <keyword> контрольные измерительные материалы</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Centralized Testing</keyword>
+              <keyword> control and measurement materials</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>1. Корощенко А. С., Снастина М. Г. ЕГЭ 2009. Химия. Самое полное издание типовых вариантов реальных заданий. ФИПИ. – М.: Астрель, 2009.
+
+            </blistpart>
+            <blistpart>2. Лидин Р. А. Химия. Тематические тренировочные задания. Уровень А, В, С. – М.: Экзамен, 2009.
+
+            </blistpart>
+            <blistpart>3. Оржековский П. А. и др. ЕГЭ 2009. Химия. Сборник заданий. – М.: Эксмо, 2009.
+
+            </blistpart>
+            <blistpart>4. Левина Э. М. Химия. ЕГЭ. Типовые тестовые задания. – СПб: Тригон, 2009.
+
+            </blistpart>
+            <blistpart>5. Злотников Э. Г., Толетова М. К. ЕГЭ 2009. Химия. Сдаём без проблем. – М.: Эксмо, 2009.
+
+            </blistpart>
+            <blistpart>6. Каверина А. А., Медведев Ю. Н. и др. ЕГЭ 2010. Химия. Экзаменационные задания. – М.: Эксмо, 2010.
+
+            </blistpart>
+            <blistpart>7. Медведев Ю. Н. ЕГЭ 2009. Химия. Типовые тестовые задания. ФИПИ. – М.: Экзамен, 2009.
+
+            </blistpart>
+            <blistpart>8. Оржековский П. А. и др. ЕГЭ 2009. Химия. Тренировочные задания. – М.: Эксмо, 2008.
+
+            </blistpart>
+            <blistpart>9. Соколова И. А. ЕГЭ–2009. Химия. Тематические тренировочные задания. – М.: Эксмо, 2008.
+
+            </blistpart>
+            <blistpart>10. Реутов О. А. Органическая химия, т. 1–4. – М.: Бином, 2004.
+
+            </blistpart>
+            <blistpart>11. Березин Б. Д., Березин Д. Б. Курс современной органической химии. – М.: Высшая школа, 1999.
+
+            </blistpart>
+            <blistpart>12. Травень В. Ф. Органическая химия, т. 1–2. – М.: Академкнига, 2004.
+
+            </blistpart>
+            <blistpart>13. Тюкавкина Н. А. Органическая химия. – М.: Дрофа, 2002.
+
+            </blistpart>
+            <blistpart>14. Тюкавкина Н. А., Бауков Ю. И. Биоорганическая химия. – М.: Дрофа, 2004.
+
+            </blistpart>
+            <blistpart>15. Химическая энциклопедия, т. 1–5. – М.: Советская энциклопедия, 1988-1998.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <article>
+          <fpageart>46</fpageart>
+          <lpageart>47</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Сушко</surname>
+                <fname>В. И.</fname>
+                <auadr>Москва</auadr>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Sushko</surname>
+                <fname>V.I.</fname>
+                <auadr>Moscow</auadr>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">М. А. Прокофьев: ученый, гражданин, просветитель</arttitle>
+            <arttitle lang="ENG">M.A. Prokofiev: a scholar, a citizen, and a torch-bearer</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Статья посвящена 100-летию со дня рождения М. А. Прокофьева.</abstract>
+            <abstract lang="ENG">The article is dedicated to the 100th anniversary since the birthday of
+M.A. Prokofiev.</abstract>
+          </abstracts>
+          <arttype>PER</arttype>
+          <text lang="RUS" arttype="PER">М. А. Прокофьев: ученый, гражданин, просветитель
+
+           Статья посвящена 100-летию со дня рождения М. А. Прокофьева.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>Михаил Алексеевич Пркофьев</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Mikhail Alexeevich Prokofiev</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Консультация</segtitle>
+          <segtitle lang="ENG">Consultation</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>49</fpageart>
+          <lpageart>55</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Медведев</surname>
+                <fname>Ю. Н.</fname>
+                <auadr>Москва</auadr>
+                <auwork>МПГУ</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Medvedev</surname>
+                <fname>Yu. N.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>The Moscow State Pedagogical University</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Зависимость скорости реакции от температуры, или Кто прав: Вант-Гофф или Аррениус</arttitle>
+            <arttitle lang="ENG">Dependence of a reaction speed on temperature, or Who is right: Van’t Hoffor Arrhenius</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">В статье рассматривается, от каких факторов зависит скорость химических реакций, что такое энергия активации и почему катализатор ускоряет химический процесс.</abstract>
+            <abstract lang="ENG">The article examines the forces, the speed of a chemical reaction depends
+on, what activation energy means, and why a catalyst accelerates a chemical
+process.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Зависимость скорости реакции от температуры, или Кто прав: Вант-Гофф или Аррениус
+
+           В статье рассматривается, от каких факторов зависит скорость химических реакций, что такое энергия активации и почему катализатор ускоряет химический процесс.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>скорость реакции</keyword>
+              <keyword> температура</keyword>
+              <keyword> энергия активации</keyword>
+              <keyword> активированный комплекс</keyword>
+              <keyword> природа реагирующих веществ</keyword>
+              <keyword> катализатор</keyword>
+              <keyword> ингибитор</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>response rate</keyword>
+              <keyword> temperature</keyword>
+              <keyword> activation energy</keyword>
+              <keyword> activated complex</keyword>
+              <keyword> nature of reagents</keyword>
+              <keyword> catalyst</keyword>
+              <keyword> retarding agent</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>Браун Т., Лемей Г. Ю. Химия ― в центре наук. Т. 2. ― М.: Мир, 1983.
+
+            </blistpart>
+            <blistpart>Дикерсон Р., Грей Г., Хейт Дж. Основные законы химии. Т. 2. ― М.: Мир, 1982.
+
+            </blistpart>
+            <blistpart>Ерёмин В. В. Теоретическая и математическая химия для школьников. ― М.: МЦНМО, 2007.
+
+            </blistpart>
+            <blistpart>Леенсон И. А. Почему и как идут химические реакции. ― М.: Мирос, 1995.
+
+            </blistpart>
+            <blistpart>Леенсон И. А. Химические реакции: Пособие для учителей. ― М.: Астрель, 2002.
+
+            </blistpart>
+            <blistpart>Пурмаль А. П., Розенберг Е. Л. Общая химия: Пособие для учителей. ― М.: Просвещение, 1978.
+
+            </blistpart>
+            <blistpart>Пурмаль А. П., Слободецкая Е. М., Травин С. О. Как превращаются вещества // Библиотечка журнала «Квант». ― Вып. 36. ― М.: Наука, 1984.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Химический эксперимент</segtitle>
+          <segtitle lang="ENG">Chemical experiment</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>56</fpageart>
+          <lpageart>61</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Попкова</surname>
+                <fname>Е. В.</fname>
+                <auadr>Москва</auadr>
+                <auwork>МГОУ</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Popkova</surname>
+                <fname>E.V.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>The Moscow State Open University</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Сурин</surname>
+                <fname>Ю. В.</fname>
+                <auadr>Москва</auadr>
+                <auwork>МГОУ</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Surin</surname>
+                <fname>Yu.V.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>The Moscow State Open University</auwork>
+              </individInfo>
+            </author>
+            <author num="3">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Юрова</surname>
+                <fname>Н. С.</fname>
+                <auadr>Москва</auadr>
+                <auwork>МГОУ</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Yurova</surname>
+                <fname>N.S.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>The Moscow State Open University</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Экологические аспекты совершенствования школьного химического эксперимента при развивающем обучении</arttitle>
+            <arttitle lang="ENG">Ecological aspects of perfecting school chemical experiment when developingteaching.</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Применение описанных в статье проблемных опытов активизирует мыслительную деятельность учащихся, способствует развитию их творческих способностей и повышает интерес к изучаемой науке. А экологические аспекты данной работы способствуют решению таких задач, как внедрение более безопасных химических опытов, сохранение здоровья учащихся.</abstract>
+            <abstract lang="ENG">Applying described in the article problem experiments activates thinking
+activity of students, promotes their creative abilities, and increases
+their concern in the studied science, while ecological aspects encourage
+solving such tasks as introduction of safer chemical experiments and health
+protection of students.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Экологические аспекты совершенствования школьного химического эксперимента при развивающем обучении
+
+           Применение описанных в статье проблемных опытов активизирует мыслительную деятельность учащихся, способствует развитию их творческих способностей и повышает интерес к изучаемой науке. А экологические аспекты данной работы способствуют решению таких задач, как внедрение более безопасных химических опытов, сохранение здоровья учащихся.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>экологические аспекты при проведении опытов</keyword>
+              <keyword> совершенствование школьного химического эксперимента</keyword>
+              <keyword> проблемные опыты</keyword>
+              <keyword> активизация мыслительной деятельности учащихся</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Ecological aspects while conducting experiments</keyword>
+              <keyword> improving school chemical experiment</keyword>
+              <keyword> problem tests</keyword>
+              <keyword> activating students’ thinking activity</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>1. Правила безопасности для кабинетов (лабораторий) химии общеобразовательных школ // Химия в школе. ― 2005. ― № 1. ― С. 50–58; 2005. ― № 2. ― С. 57.
+
+            </blistpart>
+            <blistpart>2. Сурин Ю. В., Юрова Н. С., Попкова Е. В. Проблемно-развивающие опыты с бесцветными растворами солей железа(111). ― 2009. ― № 1. ― С. 50–55.
+
+            </blistpart>
+            <blistpart>3. Угай Я. И. Общая и неорганическая химия: Учеб. для вузов. ― 2-е изд., испр. ― М.: Высшая школа, 2000. С. 302.
+
+            </blistpart>
+            <blistpart>4. Лидин Р. А., Молочко В. А., Андреева Л. А. Реакции неорганических веществ: справочник. ― 2-е изд., перер. и доп. ― М.: Дрофа, 2007. ― С. 152.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <article>
+          <fpageart>62</fpageart>
+          <lpageart>66</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Беспалов</surname>
+                <fname>П. И.</fname>
+                <auadr>Москва</auadr>
+                <auwork>МИОО</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Bespalov</surname>
+                <fname>P. I.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>The Moscow Institute of Open Education</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Фермент уреаза как объект ученического исследования</arttitle>
+            <arttitle lang="ENG">Ferment urease as an object of student research</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Исследовательская и проектная деятельность школьников стала неотъемлемым атрибутом современной школы. Имеются направления исследований, которые вполне можно реализовать в скромно оснащённой школьной лаборатории. Одно из таких исследований ― изучение ферментативных реакций и свойств ферментов. Прекрасным объектом исследования служит фермент уреаза.</abstract>
+            <abstract lang="ENG">Student research and project activity became an integrated attribute of a
+contemporary school. There are research directions, which can be easily
+implemented in a modesty equipped school laboratory. One of such
+investigations is studying fermentative reactions and ferment behavior. An
+excellent research object is ferment urease.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Фермент уреаза как объект ученического исследования
+
+           Исследовательская и проектная деятельность школьников стала неотъемлемым атрибутом современной школы. Имеются направления исследований, которые вполне можно реализовать в скромно оснащённой школьной лаборатории. Одно из таких исследований ― изучение ферментативных реакций и свойств ферментов. Прекрасным объектом исследования служит фермент уреаза.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>фермент</keyword>
+              <keyword> свойства ферментов</keyword>
+              <keyword> уреаза</keyword>
+              <keyword> суспензия</keyword>
+              <keyword> мочевина</keyword>
+              <keyword> тиомочевина</keyword>
+              <keyword> специфичность действия</keyword>
+              <keyword> инактивация</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Ferment (enzyme)</keyword>
+              <keyword> ferment behavior</keyword>
+              <keyword> urease</keyword>
+              <keyword> suspension</keyword>
+              <keyword> urea</keyword>
+              <keyword> thiourea</keyword>
+              <keyword> specifics character of action</keyword>
+              <keyword> inactivation</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>Гусева К. Е., Проскурина И. К. Разработка химического эксперимента с экологическим содержанием // Химия в школе. ―2002. ― № 10. ― С. 72–74.
+
+            </blistpart>
+            <blistpart>Кульберг Л. М. Синтезы органических реактивов для неорганического анализа. ― М.: ГОНТИ, 1947.
+
+            </blistpart>
+            <blistpart>Самнер Дж. Химия ферментов и методы их исследования / Пер с англ. Под ред. В. А. Энгельгардта. ― М., 1948.
+
+            </blistpart>
+            <blistpart>Цыганов А. Р. Биохимия. Практикум: Учебное пособие. ― Минск: ИВЦ Минфина, 2007.
+
+            </blistpart>
+            <blistpart>Шеховцева Т. Н. Ферменты: их использование в химическом анализе // Соросовский образовательный журнал. ― Т. 6. ― 2000. ― № 1. ― С. 44–48.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <article>
+          <fpageart>67</fpageart>
+          <lpageart>68</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Баютов</surname>
+                <fname>О. В.</fname>
+                <auadr>Новосибирск</auadr>
+                <auwork>Специализированный учебно-научный центр НГУ</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Bayutov</surname>
+                <fname>O.V.</fname>
+                <auadr>Novosibirsk</auadr>
+                <auwork>Designated training and scientific center of the Novosibirsk StateUniversity</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Юсенко</surname>
+                <fname>К. В.</fname>
+                <auadr>Новосибирск</auadr>
+                <auwork>Специализированный учебно-научный центр НГУ</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Yusenko</surname>
+                <fname>K.V.</fname>
+                <auadr>Novosibirsk</auadr>
+                <auwork>Designated training and scientific center of the Novosibirsk StateUniversity</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">демонстрация взаимодействия ионов Fe3+ с роданид-ионами</arttitle>
+            <arttitle lang="ENG">demonstration of interaction between Fe3+ ions and rhodanate-ions</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Реакция комплексообразования ионов Fe3+ с роданид-ионами очень красивая и познавательная. Этот демонстрационный эксперимент основан на различии цветов аква-ионов Fe3+, роданидного и фторидного комплексов. Аква-ион Fe3+ имеет жёлтую, а в разбавленных растворах почти бесцветную окраску, роданидный комплекс очень интенсивно поглощает свет и имеет кроваво-красную окраску, фторидный комплекс в растворе бесцветен.</abstract>
+            <abstract lang="ENG">A complex-forming reaction between Fe3+ ions and rhodanate-ions is very
+beautiful and cognitive. This demonstrational experiment is based on the
+difference of colors of Fe3+ aqua-ions, rhodanate, and fluoride complexes.
+Fe3+ aqua-ion features yellow color, while it is of almost achromatic in
+dilute solutions, a rhodanate complex absorbs light intensively and has
+bloody-red color, and fluoride complex is colorless in a solution.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">демонстрация взаимодействия ионов Fe3+ с роданид-ионами
+
+           Реакция комплексообразования ионов Fe3+ с роданид-ионами очень красивая и познавательная. Этот демонстрационный эксперимент основан на различии цветов аква-ионов Fe3+, роданидного и фторидного комплексов. Аква-ион Fe3+ имеет жёлтую, а в разбавленных растворах почти бесцветную окраску, роданидный комплекс очень интенсивно поглощает свет и имеет кроваво-красную окраску, фторидный комплекс в растворе бесцветен.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>ионы</keyword>
+              <keyword> комплексообразование</keyword>
+              <keyword> комплекс</keyword>
+              <keyword> аква-ионы</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>ions</keyword>
+              <keyword> complexation</keyword>
+              <keyword> complex</keyword>
+              <keyword> aqua-ions</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Внеклассная работа</segtitle>
+          <segtitle lang="ENG">Post-Curriculum exercises</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>69</fpageart>
+          <lpageart>75</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Мартыненко</surname>
+                <fname>Б. В.</fname>
+                <auadr>г. Бирск</auadr>
+                <auwork>Социально-педагогическая академия</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Martynenko</surname>
+                <fname>B.V.</fname>
+                <auadr>the town of Birsk</auadr>
+                <auwork>Social and Pedagogical Academy</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Михалёва</surname>
+                <fname>М. В.</fname>
+                <auadr>г. Бирск</auadr>
+                <auwork>Социально-педагогическая академия</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Mikhaleva</surname>
+                <fname>M.V.</fname>
+                <auadr>the town of Birsk</auadr>
+                <auwork>Social and Pedagogical Academy</auwork>
+              </individInfo>
+            </author>
+            <author num="3">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Самойлова</surname>
+                <fname>К. Н.</fname>
+                <auadr>г. Бирск</auadr>
+                <auwork>Социально-педагогическая академия</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Samoylova</surname>
+                <fname>K.N.</fname>
+                <auadr>the town of Birsk</auadr>
+                <auwork>Social and Pedagogical Academy</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Тематический вечер «Ода мёду»</arttitle>
+            <arttitle lang="ENG">Theme party “Ode to Honey”</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Несомненно, что сфера использования мёда как ценного продукта питания и эффективного оздоравливающего средства расширяется по мере познания человеком его свойств и возможностей в борьбе с отрицательными последствиями современных условий жизни. Мёд, к тому же, очень интересный и удобный объект исследовательской работы школьников на занятиях химического кружка или факультатива, имеющих экологическую направленность. Предложен сценарий тематического вечера, который является своеобразным итогом работы химического кружка.</abstract>
+            <abstract lang="ENG">Without doubt the sphere of using honey as a food product and an effective
+revitalizing remedy keeps broadening out as far as a man cognizes its
+behavior and opportunities in a struggle against negative consequences of
+modern life conditions. Honey, furthermore, is a very interesting and
+convenient object of research work of students during classes of chemical
+circle or optional courses, focused on ecological issues. The scenario of a
+theme party, which is an original final result of the work of a chemical
+circle is offered.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Тематический вечер «Ода мёду»
+
+           Несомненно, что сфера использования мёда как ценного продукта питания и эффективного оздоравливающего средства расширяется по мере познания человеком его свойств и возможностей в борьбе с отрицательными последствиями современных условий жизни. Мёд, к тому же, очень интересный и удобный объект исследовательской работы школьников на занятиях химического кружка или факультатива, имеющих экологическую направленность. Предложен сценарий тематического вечера, который является своеобразным итогом работы химического кружка.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>мёд</keyword>
+              <keyword> свойства мёда</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>honey</keyword>
+              <keyword> honey behavior</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>1.Донцов В. В., Донцов И. В. Лекарственные растения и продукты пчеловодства: целебные свойства лекарственных трав и мёда. – Нижний Новгород: Флокс, 1992.
+
+            </blistpart>
+            <blistpart>Серёгин И. Г., Уша Б. В. Лабораторные методы в ветеринарно-санитарной экспертизе пищевого сырья и готовых продуктов. – СПб.: Издательство «РАПП», 2008.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Из истории химии</segtitle>
+          <segtitle lang="ENG">Some Facts from History of Chemistry</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>7679</fpageart>
+          <lpageart></lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Изюмов</surname>
+                <fname>И. А.</fname>
+                <auadr>г. Аксай, Ростовская обл.</auadr>
+                <auwork>СШ № 3</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Izyumov</surname>
+                <fname>I. A.</fname>
+                <auadr>the town of Aksay, the Rostov region</auadr>
+                <auwork>Secondary School №3</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Кто вы, мистер Астон?</arttitle>
+            <arttitle lang="ENG">Who are you, Mister Aston?</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">В статье приведены факты из жизни лауреата Нобелевской премии Ф. У. Астона, рассказывается о его дружбе с Э. Резерфордом, описываются его научные изыскания.</abstract>
+            <abstract lang="ENG">The article provides facts from the life of the winner of the Nobel Prize
+F.W. Aston, tells us about his friendship with Ernest Rutherford, and
+describes his scientific investigation.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Кто вы, мистер Астон?
+
+           В статье приведены факты из жизни лауреата Нобелевской премии Ф. У. Астона, рассказывается о его дружбе с Э. Резерфордом, описываются его научные изыскания.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>Пётр Капица</keyword>
+              <keyword> Френсис Уильям Астон</keyword>
+              <keyword> изотопы</keyword>
+              <keyword> нуклиды</keyword>
+              <keyword> квантовые представления</keyword>
+              <keyword> масс-спектрометрия</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Peter Kapitsa</keyword>
+              <keyword> Francis William Aston</keyword>
+              <keyword> isotopes</keyword>
+              <keyword> nuclides</keyword>
+              <keyword> quantum concepts</keyword>
+              <keyword> mass-spectrometry</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>1. Данин Д. С. Резерфорд. ― М.: Молодая гвардия, 1966.
+
+            </blistpart>
+            <blistpart>2. Энциклопедия для детей. Т. 16. Физика. Ч. 2 / Гл. ред. В. А. Володин. ― М.: Аванта+, 2002.
+
+            </blistpart>
+          </biblist>
+        </article>
+    </issue>
+  </journal>
+</journals>

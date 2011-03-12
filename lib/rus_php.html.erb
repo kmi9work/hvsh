@@ -1,0 +1,95 @@
+<% unless @article[:section_rus].nil? or @article[:section_rus].empty? %>
+  <h2> <%= @article[:section_rus] %></h2>
+<% end %>
+
+<% unless @article[:title_rus].nil? or @article[:title_rus].empty? %>
+  <h3><%= @article[:title_rus] %></h3>
+<% end %>
+
+<% fl = 0
+@article[:authors].each do |author|
+  author.each do |key,a|
+    fl = 1 if a != nil and a != ""
+    break
+  end
+  break if fl == 1
+end %>
+
+<% if fl == 1 %>
+  <div class="paragraph">
+    <div class="title">Авторы:</div>
+    <% unless @article[:authors].nil? or @article[:authors].empty? %>
+      <% @article[:authors].each do |author| %>
+        <% arr_rus = [author[:name_rus]] %>
+        <% if author[:name_rus] =~ /(..?\. ?..?\..*\,? ? ?){2,}/ or author[:name_rus] =~ /(.*..?\. ?..?\.,? ? ?){2,}/
+             arr_rus = author[:name_rus].split(/[,;]/).map{|i| i.strip}.find_all{|i| i.size > 0}
+           end 
+           for i in 0...arr_rus.size
+             rus = arr_rus[i]
+             fname = ""
+             surname = ""
+             if rus =~ /(.\. ?.\.)(.*)/
+               fname = $1.strip
+               surname = $2.strip
+             elsif rus =~ /(.*)(.\. ?.\.)/
+               fname = $2.strip
+               surname = $1.strip
+             else
+               $stderr.puts "4:FATAL ERROR IN AUTHORS!!! #{rus.inspect}"
+             end %>
+             <p>
+               <b><%= surname %> <%= fname %></b>.
+    
+               <% unless author[:adress_rus].nil? or author[:adress_rus].empty?  %>
+                 Адрес: <%= author[:adress_rus] %>.
+               <% end %>
+               <% unless author[:workplace_rus].nil? or author[:workplace_rus].empty?  %>
+                 Место работы: <%= author[:workplace_rus] %>.
+               <% end %>
+             </p>
+           <% end %>
+      <% end %>
+    <% end %>
+    </div>
+<% end %>
+
+<% unless @article[:summary_rus].nil? or @article[:summary_rus].empty? %>
+  <div class="exampleblock">
+    <div class="title">Аннотация</div>
+    <div class="exampleblock-content">
+      <div class="paragraph">
+        <p><%= @article[:summary_rus] %></p>
+      </div>
+    </div>  
+  </div>
+<% end %>
+
+<% unless @article[:keywords_rus].nil? or @article[:keywords_rus].empty? %>
+  <div class="paragraph">
+  <div class="title">Ключевые слова: </div>
+  <% unless @article[:keywords_rus].nil? or @article[:keywords_rus].empty? %>
+    <% @article[:keywords_rus][0].capitalize! %>
+    <p> <%= @article[:keywords_rus].join(", ") %>. </p>
+  <% end %>
+<% end %>
+
+<% unless @article[:lists].nil? or @article[:lists].empty? %>
+  <div class="ulist">
+    <div class="title">Список литературы</div>
+    <ul>
+      <% @article[:lists].each do |list| %>
+        <% while list =~ /"(.*?)"/
+            puts "Original list: #{list}"
+            list.gsub!(/"(.*?)"/,"&lt;#{$1}&gt;")
+            puts "Changed list: #{list}\nMust be true &lt,&gt"
+            puts "==========="
+           end %>
+        <li>
+          <p><%= list %></p>
+        </li>
+      <% end %>
+      
+    </ul>
+  </div>
+<% end %>
+<hr>
