@@ -1,0 +1,1281 @@
+<?xml version="1.0" standalone="no" ?>
+<journals>
+  <opercard>
+    <operator>ХвШ|Костенчук М. И.</operator>
+    <date>2011-02-13_23:54:08</date>
+  </opercard>
+  <journal>
+    <journalInfo lang="RUS">
+      <jrntitle>Химия в школе</jrntitle>
+      <publ>ООО "Центрхимпресс"</publ>
+      <placepubl>Москва</placepubl>
+      <loc>Москва, ул. П. Корчагина, д. 7</loc>
+    </journalInfo>
+    <issue>
+      <issn>0368-5632</issn>
+      <jrncode>03685632</jrncode>
+      <jnumUni>01</jnumUni>
+      <jdateUni>201101</jdateUni>
+      <pages>1-76</pages>
+        <article>
+          <fpageart>2</fpageart>
+          <lpageart></lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname></surname>
+                <fname>Л.С.</fname>
+                <auadr>Москва</auadr>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Levina</surname>
+                <fname>L.S.</fname>
+                <auadr>Moscow</auadr>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">В новый год  не без хлопот...</arttitle>
+            <arttitle lang="ENG">Entering New Year not without troubles</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Главный редактор журнала размышляет о преобразованиях в системе
+образования.</abstract>
+            <abstract lang="ENG">The editor-in-chief reflects on reorganization in the system of education.</abstract>
+          </abstracts>
+          <arttype>EDI</arttype>
+          <text lang="RUS" arttype="EDI">В новый год  не без хлопот...
+
+           Главный редактор журнала размышляет о преобразованиях в системе
+образования.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>система образования</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>the educational system</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Наука и промышленность</segtitle>
+          <segtitle lang="ENG">Science and Industry</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>3</fpageart>
+          <lpageart>5</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname></surname>
+                <fname>Л.С.</fname>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Levina</surname>
+                <fname>L.S.</fname>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Нобелевские лауреаты по химии 2010 г.</arttitle>
+            <arttitle lang="ENG">The Nobel Laureates in Chemistry 2010</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Нобелевскую премию по химии 2010 г. получили учёные из Японии и США:  Ричард
+Хек, Эйити Нагиси (в русскоязычной научной литературе  его  фамилия  пишется
+«Негиши»)  и  Акира  Судзуки  награждены   за   разработку   «катализируемых
+палладием  реакций  кросс-сочетания».  Нобелевский  комитет  поясняет,   что
+лауреаты  «разработали  новые,  более  эффективные  пути  связывания  атомов
+углерода для синтеза сложных  молекул,  которые  могут  сделать  лучше  нашу
+повседневную жизнь».</abstract>
+            <abstract lang="ENG">The Nobel Prize in Chemistry 2010 was awarded jointly to scholars from Japan and the USA:  to Richard F. Heck, Ei-ichi Negishi (in the Russian-language scientific literature his last name is spelled as «Negishi») and Akira Suzuki "for palladium-catalyzed cross couplings in organic synthesis"..  The Nobel Committee for Chemistry clarifies on the scholars «have developed new, more effective ways of cross coupling of atoms of carbon for synthesis of compound molecules, which can make our everyday life better».</abstract>
+          </abstracts>
+          <arttype>REV</arttype>
+          <text lang="RUS" arttype="REV">Нобелевские лауреаты по химии 2010 г.
+
+           Нобелевскую премию по химии 2010 г. получили учёные из Японии и США:  Ричард
+Хек, Эйити Нагиси (в русскоязычной научной литературе  его  фамилия  пишется
+«Негиши»)  и  Акира  Судзуки  награждены   за   разработку   «катализируемых
+палладием  реакций  кросс-сочетания».  Нобелевский  комитет  поясняет,   что
+лауреаты  «разработали  новые,  более  эффективные  пути  связывания  атомов
+углерода для синтеза сложных  молекул,  которые  могут  сделать  лучше  нашу
+повседневную жизнь».
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>Нобелевская   премия</keyword>
+              <keyword>   реакции   кросс-сочетания</keyword>
+              <keyword>    катализ</keyword>
+              <keyword>    паллдиевыйкатализатор</keyword>
+              <keyword> селективность</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>The Nobel Prize</keyword>
+              <keyword> cross-combination reactions</keyword>
+              <keyword> catalysis</keyword>
+              <keyword> palladic  catalyst</keyword>
+              <keyword>selectivity</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Методика и обмен опытом</segtitle>
+          <segtitle lang="ENG">Methods and Experience Exchange</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>6</fpageart>
+          <lpageart>18</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname></surname>
+                <fname>А. А.</fname>
+                <auadr>Москва</auadr>
+                <auwork>Руководитель Федеральной комиссии по разработке КИМ для проведения ЕГЭ</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Kaverina</surname>
+                <fname>A.A.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>The Head of the Federal Commission on developing controlling and measuring materials to conduct the Unified State Examination</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">ЕГЭ-2011: документы, регламентирующие  структуру  и  содержание  контрольныхизмерительных материалов</arttitle>
+            <arttitle lang="ENG">The Unified State Examination-2011: documents to govern structure and content of controlling and measuring materials</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Статья содержит обстоятельную информацию об официальных документах,  которые
+подготовлены Федеральной комиссией по разработке КИМ для проведения  ЕГЭ  по
+химии в 2011 г.:  кодификаторе элементов содержания и  требований  к  уровню
+подготовки  выпускников  общеобразовательных  учреждений,   спецификации   и
+демонстрационном варианте КИМ. Также приведен  план  экзаменационной  работы
+ЕГЭ 2011 г. Эти материалы помогут учителям  более  эффективно  ориентировать
+учебный процесс на усвоение учащимися основного содержания  школьного  курса
+химии,  а  также  подготовить   выпускников   к   успешной   сдаче   Единого
+государственного экзамена по химии в 2011 г.</abstract>
+            <abstract lang="ENG">The article contains the circumstantial information on the official documents to be prepared by the Federal Commission on developing controlling and measuring materials to conduct the Unified State Examination on chemistry in 2011, such as: the codificator of elements of content and requirements to the level of preparation of graduates of the general educational institutions, the specification, and the demo-version of the controlling and measuring materials. The plan of exam paperwork of the Certified State Exam of 2011 is also offered. Those materials will help a teacher to get an academic process oriented on mastering the school course of chemistry by students more effectively as to get those who are about to finish school to pass the Unified State Exam on Chemisry-2011 successfully as well.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">ЕГЭ-2011: документы, регламентирующие  структуру  и  содержание  контрольныхизмерительных материалов
+
+           Статья содержит обстоятельную информацию об официальных документах,  которые
+подготовлены Федеральной комиссией по разработке КИМ для проведения  ЕГЭ  по
+химии в 2011 г.:  кодификаторе элементов содержания и  требований  к  уровню
+подготовки  выпускников  общеобразовательных  учреждений,   спецификации   и
+демонстрационном варианте КИМ. Также приведен  план  экзаменационной  работы
+ЕГЭ 2011 г. Эти материалы помогут учителям  более  эффективно  ориентировать
+учебный процесс на усвоение учащимися основного содержания  школьного  курса
+химии,  а  также  подготовить   выпускников   к   успешной   сдаче   Единого
+государственного экзамена по химии в 2011 г.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>Единый  государственный  экзамен</keyword>
+              <keyword>   контрольные   измерительные   материалы</keyword>
+              <keyword>нормативные документы</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>The Unified  State  Exam</keyword>
+              <keyword>  controlling  and  measuring  materials</keyword>
+              <keyword>  standarddocuments</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>18</fpageart>
+          <lpageart>24</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Самойлов</surname>
+                <fname>И. В.</fname>
+                <auadr>Москва</auadr>
+                <auwork>СШ № 419</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Samoylov</surname>
+                <fname>I.V.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>Secondary School № 419</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname></surname>
+                <fname>Ю. Н.</fname>
+                <auadr>Москва</auadr>
+                <auwork>МПГУ</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Medvedev</surname>
+                <fname>Yu. N.</fname>
+                <auadr>Moscow</auadr>
+                <auwork>The Moscow State Pedagogical University</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">К изучению правила Марковникова</arttitle>
+            <arttitle lang="ENG">On studying the Markovnikov’s rule</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">В статье говорится о правиле  Марковникова,  которое  объясняет  направление
+реакций присоединения полярных молекул типа НХ к двойным и тройным  углерод-
+углеродным связям. Даётся  современная  трактовка  правила  Марковникова  на
+основании статического и динамического подходов. Статья снабжена  заданиями,
+проверяющими использование правила Марковникова.</abstract>
+            <abstract lang="ENG">The article deals with Markovnikov’s rule which predicts  the  direction  of
+addition reactions of HX type polar molecules to double and  triple  carbon-
+carbon bonds. The modern treatment of Markovnikov’s rule  on  the  basis  of
+static and dynamic approaches is given. The article  is  supplied  with  the
+exercises checking the correct use of Markovnikov’s rule by students.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">К изучению правила Марковникова
+
+           В статье говорится о правиле  Марковникова,  которое  объясняет  направление
+реакций присоединения полярных молекул типа НХ к двойным и тройным  углерод-
+углеродным связям. Даётся  современная  трактовка  правила  Марковникова  на
+основании статического и динамического подходов. Статья снабжена  заданиями,
+проверяющими использование правила Марковникова.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>правило Марковникова</keyword>
+              <keyword> индуктивный  эффект</keyword>
+              <keyword>  карбокатион</keyword>
+              <keyword>  перекисный  эффектХараша</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Markovnikov’s  rule</keyword>
+              <keyword>  inductive  effect</keyword>
+              <keyword>  carbocation</keyword>
+              <keyword>   Kharasch   peroxideeffect</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>24</fpageart>
+          <lpageart>27</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname></surname>
+                <fname>Л.С.</fname>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Levina</surname>
+                <fname>L.S.</fname>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Учебник, который мы выбираем</arttitle>
+            <arttitle lang="ENG">The textbook we choose</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Авторы учебников, включённых в ныне действующий Федеральный перечень
+учебников, рекомендованных Министерством образования и науки Российской
+Федерации к использованию в образоваттельном процессе в общеобразовательных
+учреждениях, отвечают на вопросы редакции.</abstract>
+            <abstract lang="ENG">The authors of textbooks, included into the active Federal list of textbooks, recommended by the Ministry of Education and Science to use in the educational process in educational institutions, answer the editorial staff questions.</abstract>
+          </abstracts>
+          <arttype>ABS</arttype>
+          <text lang="RUS" arttype="ABS">Учебник, который мы выбираем
+
+           Авторы учебников, включённых в ныне действующий Федеральный перечень
+учебников, рекомендованных Министерством образования и науки Российской
+Федерации к использованию в образоваттельном процессе в общеобразовательных
+учреждениях, отвечают на вопросы редакции.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>учебник химии</keyword>
+              <keyword> учебно-методический комплект</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Chemistry textbook</keyword>
+              <keyword> educational kit</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>27</fpageart>
+          <lpageart>35</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Богомолова</surname>
+                <fname>В. С.</fname>
+                <auadr>с. Красная Горка, Пензенская обл.</auadr>
+                <auwork>Средняя школа</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Bogomolova</surname>
+                <fname>V.S.</fname>
+                <auadr>The village of Krasnaya Gorka (the Red Hill), the Penza region</auadr>
+                <auwork>Secondary School</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Урок по теме «Железо и его соединения»</arttitle>
+            <arttitle lang="ENG">The lesson on the subject of “Ferrum and its compounds”</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Предложен урок, на котором учащиеся 9-го класса получают полное
+представление о железе как химическом элементе и простом веществе, а также
+о его соединениях.</abstract>
+            <abstract lang="ENG">The lesson, during which the 9th Form students get the complete idea about ferrum as a chemical element as a substance and its compounds as well, is offered.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Урок по теме «Железо и его соединения»
+
+           Предложен урок, на котором учащиеся 9-го класса получают полное
+представление о железе как химическом элементе и простом веществе, а также
+о его соединениях.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>урок</keyword>
+              <keyword> железо</keyword>
+              <keyword> соединения железа</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>lesson</keyword>
+              <keyword> ferrum (iron)</keyword>
+              <keyword> ferrum (iron) compounds</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>36</fpageart>
+          <lpageart>41</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Чикулаева</surname>
+                <fname>Л. И.</fname>
+                <auadr>г. Октябрьск, Самарская обл.</auadr>
+                <auwork>СШ № 2</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Chikulaeva</surname>
+                <fname>L.I.</fname>
+                <auadr>The town of Oktyabr’sk, the Samara region</auadr>
+                <auwork>Secondary School №2</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Лагунова</surname>
+                <fname>С. Ю.</fname>
+                <auadr>г. Вологда</auadr>
+                <auwork>СШ № 30</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Lagunova</surname>
+                <fname>S.Yu.</fname>
+                <auadr>Vologda</auadr>
+                <auwork>Secondary School №30</auwork>
+              </individInfo>
+            </author>
+            <author num="3">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Аникина</surname>
+                <fname>И. Н.</fname>
+                <auadr>г. Октябрьск, Самарская обл.</auadr>
+                <auwork>СШ № 9 «Образовательный центр»</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Anikina</surname>
+                <fname>I.N.</fname>
+                <auadr>The town of Oktyabr’sk, the Samara region</auadr>
+                <auwork>Secondary School # 9 “Educational Center”</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Из опыта проведения уроков в 8-м классе</arttitle>
+            <arttitle lang="ENG">Sharing the experience of conducting lessons in the 8th Form</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Предложены  разработки  уроков  по  теме  «Важнейшие  классы  неорганических
+соединений», в частности, с   использованием технологии здоровьесбережения.</abstract>
+            <abstract lang="ENG">Designs of lessons on the subject of “The most important classes of inorganic compounds”, and using health-saving technologies, in particular, are offered.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Из опыта проведения уроков в 8-м классе
+
+           Предложены  разработки  уроков  по  теме  «Важнейшие  классы  неорганических
+соединений», в частности, с   использованием технологии здоровьесбережения.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>здоровьесберегающие  технологии</keyword>
+              <keyword>  классы  неорганических  веществ</keyword>
+              <keyword>  изучениенового материала</keyword>
+              <keyword> кислоты</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Health-savingtechnologies</keyword>
+              <keyword> classes of  inorganic  matters</keyword>
+              <keyword>  studying  a  newmaterial</keyword>
+              <keyword> acids</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>42</fpageart>
+          <lpageart>44</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Кузьмина</surname>
+                <fname>О. В.</fname>
+                <auadr>Мурманск</auadr>
+                <auwork>Политехнический лицей</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Kuzmina</surname>
+                <fname>O. Vl.</fname>
+                <auadr>Murmansk</auadr>
+                <auwork>Polytechnic Lyceum</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Беляева</surname>
+                <fname>Е. И.</fname>
+                <auadr>Мурманск</auadr>
+                <auwork>Политехнический лицей</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Belyaeva</surname>
+                <fname>Ye. J.</fname>
+                <auadr>Murmansk</auadr>
+                <auwork>Polytechnic Lyceum</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Урок - ролевая игра  «Влияние медицинских препаратов на здоровье человека»</arttitle>
+            <arttitle lang="ENG">Role-playing game “Influencing man’s health by medical drugs”</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Предлагаемая ролевая игра позволяет не только расширить  и  углубить  знания
+учащихся по теме «Карбоновые кислоты», но и раскрыть роль химических  знаний
+в решении  важных  проблем,  провести  профориентационную  работу.  Учащиеся
+играют роли врачей химико-биологической  лаборатории  (две  группы),  членов
+экспертной комиссии (две группы),  двух  пациентов,  а  учитель  -  главного
+врача поликлиники.</abstract>
+            <abstract lang="ENG">The offered role-playing game allows not only to extend and make the students’ knowledge on the subject of “Carboxylic Acids” be more profound, but also to discover the role of chemical knowledge to decide important issues, and to conduct profession oriented work. Students play roles of medical doctors of a chemical and biological laboratory (two groups), expert commission members (two groups), two patients, while a teacher plays the role of an ambulance doctor-in-chief.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Урок - ролевая игра  «Влияние медицинских препаратов на здоровье человека»
+
+           Предлагаемая ролевая игра позволяет не только расширить  и  углубить  знания
+учащихся по теме «Карбоновые кислоты», но и раскрыть роль химических  знаний
+в решении  важных  проблем,  провести  профориентационную  работу.  Учащиеся
+играют роли врачей химико-биологической  лаборатории  (две  группы),  членов
+экспертной комиссии (две группы),  двух  пациентов,  а  учитель  -  главного
+врача поликлиники.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>ролевая игра</keyword>
+              <keyword> медицинские препараты</keyword>
+              <keyword> здоровье человека</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Simulation game</keyword>
+              <keyword> medical supplies</keyword>
+              <keyword> man’s health</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>44</fpageart>
+          <lpageart>46</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Тагиев</surname>
+                <fname>И. Б.</fname>
+                <auadr>Баку</auadr>
+                <auwork>Бакинский государственный университет</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Tagiev</surname>
+                <fname>I.B.</fname>
+                <auadr>Baku</auadr>
+                <auwork>The Baku State University</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Межпредметные связи как основа развития активной познавательнойдеятельности</arttitle>
+            <arttitle lang="ENG">Cross-subject connections as the basis to develop active cognitive activity</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">В  статье  рассматривается  открытый   урок   применения   межпредметных   и
+внутрипредметных связей при объяснения учебного материала. Автор  раскрывает
+и рассматривает важность связи между дисциплинами на примере свойств  плодов
+оливок  как  восприятия  учебной  информации,  а  также  понимание   физико-
+химических и биохимических процессов в  производстве  продуктов  питания.  В
+статье  также   автор   отводит   важную   роль   повышению   познавательной
+деятельности учащихся  с  применением  открытых  уроков  на  основе  меж-  и
+внутрипредметных связей.</abstract>
+            <abstract lang="ENG">Open lesson  of  application  of  intersubject  and  intrasubject  links  at
+explanation of study material is considered in the paper. The  author  shows
+connection between the disciplines on example of oliver  fruits.  Importance
+of  intersubject  and  intrasubject  links  as  perception  of   the   study
+information and also  understanding  of  physical-chemical  and  biochemical
+processes  in  production  of  provisions  are   discussed.   Influence   of
+biochemical properties of oliver and their derivative products on the  human
+organism is described in the article.  Increase  of  cognitive  activity  of
+the students with application of  open  lesson  based  on  intersubject  and
+intrasubject relations is discussed in the paper.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Межпредметные связи как основа развития активной познавательнойдеятельности
+
+           В  статье  рассматривается  открытый   урок   применения   межпредметных   и
+внутрипредметных связей при объяснения учебного материала. Автор  раскрывает
+и рассматривает важность связи между дисциплинами на примере свойств  плодов
+оливок  как  восприятия  учебной  информации,  а  также  понимание   физико-
+химических и биохимических процессов в  производстве  продуктов  питания.  В
+статье  также   автор   отводит   важную   роль   повышению   познавательной
+деятельности учащихся  с  применением  открытых  уроков  на  основе  меж-  и
+внутрипредметных связей.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>химия</keyword>
+              <keyword>  биохимия</keyword>
+              <keyword>  межпредметные  и  внутрипредметные   связи</keyword>
+              <keyword>   интеграция</keyword>
+              <keyword>методология</keyword>
+              <keyword> пищевая ценность</keyword>
+              <keyword> познавательная деятельность</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>chemistry</keyword>
+              <keyword> biochemistry</keyword>
+              <keyword> intersubject link</keyword>
+              <keyword> integration</keyword>
+              <keyword> intrasubject  link</keyword>
+              <keyword>methodology</keyword>
+              <keyword> provisions</keyword>
+              <keyword> food value</keyword>
+              <keyword> cognitive activity</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>Медведева М. В. Активизация познавательной деятельности на уроках  химии  //
+
+            </blistpart>
+            <blistpart>Среднее профессиональное образование. – 2009. – № 6.
+
+            </blistpart>
+            <blistpart>Заграничная Н. А., Иванова Р. Г. Современные подходы  к  обучению  химии  //
+
+            </blistpart>
+            <blistpart>Химия в школе. – 2010 – № 2. – С. 10–15.
+
+            </blistpart>
+            <blistpart>Гусейнов Н. Технология консервирования фруктов и овощей. – Гянджя, 1999.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <article>
+          <fpageart>47</fpageart>
+          <lpageart>49</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Голованова</surname>
+                <fname>Н. А.</fname>
+                <auadr>г. Сургут, Тюменская обл.</auadr>
+                <auwork>СШ № 8</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Golovanova</surname>
+                <fname>N.A.</fname>
+                <auadr>Surget, the Tyumen’ region</auadr>
+                <auwork>Secondary School №  8</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Как мы решаем задачи на определение формулы органического вещества</arttitle>
+            <arttitle lang="ENG">The way we solve tasks to determine the organic substance formula</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">В статье предложен один из способов решения  задач  на  определение  формулы
+органического вещества.
+
+
+
+.i) Summary:</abstract>
+            <abstract lang="ENG">The article offers one of the ways of task-solutions, when determining the formula of an organic substance.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Как мы решаем задачи на определение формулы органического вещества
+
+           В статье предложен один из способов решения  задач  на  определение  формулы
+органического вещества.
+
+
+
+.i) Summary:
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>расчётные задачи</keyword>
+              <keyword> определение формулы органического вещества</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Calculation tasks</keyword>
+              <keyword> determining the organic matter formula</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Консультация</segtitle>
+          <segtitle lang="ENG">Consultation</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>50</fpageart>
+          <lpageart>56</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname></surname>
+                <fname>С.Ф.</fname>
+                <auadr>Волгоград</auadr>
+                <auwork>Волгоградский государственный университет</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Strokatova</surname>
+                <fname>S.F.</fname>
+                <auadr>Volgograd</auadr>
+                <auwork>Volgograd State Technical University</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname></surname>
+                <fname>И.В.</fname>
+                <auadr>Волгоград</auadr>
+                <auwork>Волгоградский государственный университет</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Lavnikova</surname>
+                <fname>I.V.</fname>
+                <auadr>Volgograd</auadr>
+                <auwork>Volgograd State Technical University</auwork>
+              </individInfo>
+            </author>
+            <author num="3">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname></surname>
+                <fname>Е.Р.</fname>
+                <auadr>Волгоград</auadr>
+                <auwork>Волгоградский государственный университет</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Androsjuk</surname>
+                <fname>E. R.</fname>
+                <auadr>Volgograd</auadr>
+                <auwork>Volgograd State Technical University</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Коррозия металлов:  теория и практика</arttitle>
+            <arttitle lang="ENG">Metal corrosion: theory and practice</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Незначительная коррозия любой детали может полностью вывести из строя
+приборы и установки. Очень велики потери из-за коррозии – снижается
+производительность и срок работы оборудования, повышается его аварийность,
+нарушаются технологические процессы. В связи с этим исследование механизма
+процесса коррозии и разработка методов защиты от нее имеют большое
+народнохозяйственное значение.</abstract>
+            <abstract lang="ENG">Minor corrosion of any part may be completely disabling devices and
+equipment. Very large losses due to corrosion - decreased productivity and
+life of the equipment, increases its accidents, broken processes. In
+connection with this investigation of the mechanism of corrosion process
+and develop methods to protect against it are of great economic importance.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Коррозия металлов:  теория и практика
+
+           Незначительная коррозия любой детали может полностью вывести из строя
+приборы и установки. Очень велики потери из-за коррозии – снижается
+производительность и срок работы оборудования, повышается его аварийность,
+нарушаются технологические процессы. В связи с этим исследование механизма
+процесса коррозии и разработка методов защиты от нее имеют большое
+народнохозяйственное значение.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>металлы</keyword>
+              <keyword>   коррозия   металлов</keyword>
+              <keyword>   химическая   коррозия</keyword>
+              <keyword>   электрохимическаякоррозия</keyword>
+              <keyword> гальванопара</keyword>
+              <keyword> способы защиты от коррозии</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>metals</keyword>
+              <keyword> metal corrosion</keyword>
+              <keyword>  chemical  corrosion</keyword>
+              <keyword>  electro-chemical  corrosion</keyword>
+              <keyword>galvanic coupling</keyword>
+              <keyword>  anti-corrosion  measures  (ways  of  struggling  againstcorrosion)</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Химический эксперимент</segtitle>
+          <segtitle lang="ENG">Chemical experiment</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>57</fpageart>
+          <lpageart>61</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Терещенко</surname>
+                <fname>О. В.</fname>
+                <auadr>Мурманск</auadr>
+                <auwork>Педагогический университет</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Tereshchenko</surname>
+                <fname>O.V.</fname>
+                <auadr>Murmansk</auadr>
+                <auwork>The Pedagogical University</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Рязанцева</surname>
+                <fname>М. В.</fname>
+                <auadr>г. Гатчина, Ленинградская обл.</auadr>
+                <auwork>Гатчинская гимназия им. К. Д. Ушинского</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Ryazantseva</surname>
+                <fname>M. V.</fname>
+                <auadr>The town of Gatchina, the Leningrad region</auadr>
+                <auwork>The Gatchina Gymnasium named after K. Dm. Ushinsky</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Мониторинг загрязнения окружающей среды по физико-химическимхарактеристикам почвы</arttitle>
+            <arttitle lang="ENG">Monitoring environmental pollution according to the physical and chemical soil behavior</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Предлагается  эксперимент  по  изучению  антропогенного  загрязнения  почвы,
+который можно  проводить  на  пришкольном  участке,  в  парке,  лесу  или  в
+школьной лаборатории. Рассмотренные методы изучения почвы  вполне  доступны,
+обеспечены наглядностью, не  требуют  дорогостоящей  материально-технической
+базы и вполне могут проводиться учащимися 8-го класса самостоятельно.</abstract>
+            <abstract lang="ENG">The experiment on studying anthropogenic soil pollution, which is possible to conduct on the near-the-school territory, in a park, forest, or in the school lab, is offered. The examined ways of soil research are quite accessible, possess demonstrativeness, do not demand costly material and technical base and can be conducted by the 8th Form students independently.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Мониторинг загрязнения окружающей среды по физико-химическимхарактеристикам почвы
+
+           Предлагается  эксперимент  по  изучению  антропогенного  загрязнения  почвы,
+который можно  проводить  на  пришкольном  участке,  в  парке,  лесу  или  в
+школьной лаборатории. Рассмотренные методы изучения почвы  вполне  доступны,
+обеспечены наглядностью, не  требуют  дорогостоящей  материально-технической
+базы и вполне могут проводиться учащимися 8-го класса самостоятельно.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>окружающая среда</keyword>
+              <keyword> мониторинг загрязнения  окружающей  среды</keyword>
+              <keyword>  почва</keyword>
+              <keyword>  гумус</keyword>
+              <keyword>химический анализ почвы</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>environment</keyword>
+              <keyword>  environmental  pollution  monitoring</keyword>
+              <keyword>  soil</keyword>
+              <keyword>  humus</keyword>
+              <keyword>  chemicalanalysis of soil</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>1. Александрова Н. И, Вилкова И. Э., Логунова Г. И.  Лабораторный  практикум
+
+            </blistpart>
+            <blistpart>по профессиональной  экологии.  -  Спб.:  Институт  профтехобразования  РАО,
+
+            </blistpart>
+            <blistpart>1997. - С. 9-16.
+
+            </blistpart>
+            <blistpart>2. Добровольский В. В. Практикум по географии почв с основами  почвоведения.
+
+            </blistpart>
+            <blistpart>- М.: ГИЦ Владос, 2001. - С. 47-51.
+
+            </blistpart>
+            <blistpart>3.  Семенкова  И.  Г,  Соколова  Э.  С.  Фитопатология.  -  М.:  Изд.  центр
+
+            </blistpart>
+            <blistpart>«Академия», 2003. - С. 171.
+
+            </blistpart>
+            <blistpart>4. Грин Н., Стаут У., Тейлор Д. Биология. - Т. 2. -  М.:  Мир,  1990.  -  С.
+
+            </blistpart>
+            <blistpart>129.
+
+            </blistpart>
+            <blistpart>5. Алексеев С. В., Беккер A. M. Изучаем экологию экспериментально.  -  СПб.:
+
+            </blistpart>
+            <blistpart>СПбГУПМ, 1993. - С. 34.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <article>
+          <fpageart>61</fpageart>
+          <lpageart>64</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Половняк</surname>
+                <fname>В. К.</fname>
+                <auadr>Казань</auadr>
+                <auwork>Технологический университет</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Polovnyak</surname>
+                <fname>V. K.</fname>
+                <auadr>Kazan</auadr>
+                <auwork>The Technological University</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Хаибрахманова</surname>
+                <fname>Д. Ф.</fname>
+                <auadr>Казань</auadr>
+                <auwork>Технологический университет</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Haibrakhmanova</surname>
+                <fname>D. F.</fname>
+                <auadr>Kazan</auadr>
+                <auwork>The Technological University</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Защита документов от подделки с использованием цветных реакций</arttitle>
+            <arttitle lang="ENG">Protection of documents from being forged using color reactions</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Тиражируемые документы  –  бюллетени  для  голосования,  лотерейные  билеты,
+банковские  документы,  всевозможные  бланки  часто  подделывают  с  помощью
+ксерокопирования. Чтобы избежать этого и  защитить  документы  от  подделки,
+можно  использовать  цветные  химические  реакции.   Рассмотрены   некоторые
+цветные реакции ионов Fe2+ и Fe3+, которые потенциально  можно  использовать
+для химической защиты документов от подделки.</abstract>
+            <abstract lang="ENG">Replicated documents, such as voting bulletins, lottery tickets, bank documents, various letterheads, are often forged with the help of xeroxing. To avoid this and to protect documents from being faked, color chemical reactions can be used. Some color reactions of ions Fe2+ and Fe3+, which are potentially can be used for chemical protection of documents from being faked, are examined.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Защита документов от подделки с использованием цветных реакций
+
+           Тиражируемые документы  –  бюллетени  для  голосования,  лотерейные  билеты,
+банковские  документы,  всевозможные  бланки  часто  подделывают  с  помощью
+ксерокопирования. Чтобы избежать этого и  защитить  документы  от  подделки,
+можно  использовать  цветные  химические  реакции.   Рассмотрены   некоторые
+цветные реакции ионов Fe2+ и Fe3+, которые потенциально  можно  использовать
+для химической защиты документов от подделки.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>цветные реакции</keyword>
+              <keyword> ионы  железа</keyword>
+              <keyword>  окрашивание  раствора</keyword>
+              <keyword>  кодирующий  раствор</keyword>
+              <keyword>проявляющий раствор</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Color reactions</keyword>
+              <keyword> ferrum (iron) ions</keyword>
+              <keyword> solution coloration</keyword>
+              <keyword>  coding  solution</keyword>
+              <keyword>developing solution</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>Ахметов Н. С. Общая и неорганическая химия. - М.: Высшая школа,  1998.
+
+            </blistpart>
+            <blistpart>Блок Н. И. Качественный химический анализ. - М.: ГХИ, 1952.
+
+            </blistpart>
+            <blistpart>Браун Т., Лемей Г. Ю. Химия в центре наук. - М.: Мир, 1983.
+
+            </blistpart>
+            <blistpart>Зайцев О. С. Общая химия. Строение веществ  и  химические  реакции.  -   М.:
+
+            </blistpart>
+            <blistpart>Химия, 1990.
+
+            </blistpart>
+            <blistpart>Кукушкин Ю. Н. Химия координационных соединений. - М.: Высшая школа, 1990.
+
+            </blistpart>
+            <blistpart>Лурье Ю. Ю. Справочник по аналитической химии. - М.: Химия, 1971.
+
+            </blistpart>
+            <blistpart>Рабинович В. А., Хавин З. Я. Краткий химический справочник. - Л.: Химия,
+
+            </blistpart>
+            <blistpart>1978.
+
+            </blistpart>
+            <blistpart>Угай Я. А. Неорганическая химия. - М.: Высшая школа, 1997.
+
+            </blistpart>
+            <blistpart>Хьюи  Д.  Ж.  Неорганическая  химия.   Строение   вещества   и   реакционная
+
+            </blistpart>
+            <blistpart>способность. - М.:Химия, 1997.
+
+            </blistpart>
+            <blistpart>Шарло Г. Методы аналитической химии. - Ч. 2. - М.: Химия, 1969.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Внеклассная работа</segtitle>
+          <segtitle lang="ENG">Post-Curriculum exercises</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>65</fpageart>
+          <lpageart>69</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Микеладзе</surname>
+                <fname>И. П.</fname>
+                <auadr>п. Речной, Кировская обл.</auadr>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Mikeladze</surname>
+                <fname>I.P.</fname>
+                <auadr>Township Rechnoy, the Kirov region</auadr>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Из опыта проведения недели химии</arttitle>
+            <arttitle lang="ENG">Sharing th experience of conducting the chemistry week</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">В данной статье описывается подготовка к  неделе химии  в  школе,  программа
+проводимых мероприятий в  рамках  недели,  включающая  подробную  разработку
+классного часа «Посвящение в химики». Внеклассное мероприятие  предназначено
+для проведения в 8-х классах, но данную разработку можно использовать и в 7-
+х классах, если учащиеся приступили к ознакомительному курсу химии.</abstract>
+            <abstract lang="ENG">The given article describes the preparation to the chemistry week at school, the program of events to be conducted within the framework of the week, including the detailed design of class hour “Admission to chemists”. This post-curriculum event is assigned to be conducted in the 8th Form, but the given design can be used in the 7th Form also, if the introductory course of chemistry has already been taught to students.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Из опыта проведения недели химии
+
+           В данной статье описывается подготовка к  неделе химии  в  школе,  программа
+проводимых мероприятий в  рамках  недели,  включающая  подробную  разработку
+классного часа «Посвящение в химики». Внеклассное мероприятие  предназначено
+для проведения в 8-х классах, но данную разработку можно использовать и в 7-
+х классах, если учащиеся приступили к ознакомительному курсу химии.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>внеклассная работа</keyword>
+              <keyword> химический классный час «Посвящение в химики»</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Postcurriculum  activities</keyword>
+              <keyword>   chemical   class-hour   «sanctification   intochemists»</keyword>
+            </kwdGroup>
+          </keywords>
+          <biblist>
+            <blistpart>Алексинский В. Н. Занимательные опыты по химии. – М., Просвещение, 1980.
+
+            </blistpart>
+            <blistpart>Габриелян О. С., Воскобойникова  Н.  П.,  Яшукова  А.  В.  Настольная  книга
+
+            </blistpart>
+            <blistpart>учителя химии. 8 класс. – М.: Дрофа, 2002.
+
+            </blistpart>
+            <blistpart>Енякова Т. М. Внеклассная работа по химии. – М.: Дрофа, 2004.
+
+            </blistpart>
+            <blistpart>Злотников Э. Г., Махова Л. В. и др. Урок окончен – занятия  продолжаются.  –
+
+            </blistpart>
+            <blistpart>М.: Просвещение, 1992.
+
+            </blistpart>
+          </biblist>
+        </article>
+        <article>
+          <fpageart>69</fpageart>
+          <lpageart>71</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Александрова</surname>
+                <fname>Е. И.</fname>
+                <auadr>г. Чебоксары</auadr>
+                <auwork>Лицей № 44</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Alexandrova</surname>
+                <fname>E.I.</fname>
+                <auadr>Cheboksary</auadr>
+                <auwork>Lyceum # 44</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Использование тематических викторин в практике обучения</arttitle>
+            <arttitle lang="ENG">Using theme quizzes in teaching practice</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Предложены вопросы тематической викторины «Элементы, металлы и неметаллы»
+для учащихся 9-го класса.</abstract>
+            <abstract lang="ENG">Theme quiz “Elements, metals, and non-metals” questions are offered.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Использование тематических викторин в практике обучения
+
+           Предложены вопросы тематической викторины «Элементы, металлы и неметаллы»
+для учащихся 9-го класса.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>викторина</keyword>
+              <keyword> химический элемент</keyword>
+              <keyword> металл</keyword>
+              <keyword> неметалл</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>quiz</keyword>
+              <keyword> chemical element</keyword>
+              <keyword> metal</keyword>
+              <keyword> non-metal</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <article>
+          <fpageart>71</fpageart>
+          <lpageart></lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Ижогина</surname>
+                <fname>Е. Ю.</fname>
+                <auadr>г. Воронеж</auadr>
+                <auwork>СШ № 8</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Izhogina</surname>
+                <fname>E.Yu.</fname>
+                <auadr>Voronezh</auadr>
+                <auwork>Secondary School № 8</auwork>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Чем занять ученика</arttitle>
+            <arttitle lang="ENG">How to keep a student busy</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">Для того чтобы учащиеся лучше запоминали и правильно применяли в  дальнейшем
+термины и определения, разработаны задания, которые предполагают  заполнение
+пропусков в тексте.</abstract>
+            <abstract lang="ENG">For students to remember better and to use correctly in the future terms and definitions, the tasks are developed, which assume filling in lacunes in text.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Чем занять ученика
+
+           Для того чтобы учащиеся лучше запоминали и правильно применяли в  дальнейшем
+термины и определения, разработаны задания, которые предполагают  заполнение
+пропусков в тексте.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>самостоятельная работа</keyword>
+              <keyword> определения понятий</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>Independent work</keyword>
+              <keyword> terms definition</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+        <jseparate>
+          <segtitle lang="RUS">Из истории химии</segtitle>
+          <segtitle lang="ENG">Some Facts from History of Chemistry</segtitle>
+        </jseparate>
+        <article>
+          <fpageart>72</fpageart>
+          <lpageart>76</lpageart>
+          <authors>
+            <author num="1">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Авдеев</surname>
+                <fname>Я. Г.</fname>
+                <auadr>Калуга</auadr>
+                <auwork>Университет им. К. Э. Циолковского</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Avdeev</surname>
+                <fname>Ya. G.</fname>
+                <auadr>Kaluga</auadr>
+                <auwork>Kaluga State University after K. E. Tsiolkovsky</auwork>
+              </individInfo>
+            </author>
+            <author num="2">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Савиткин</surname>
+                <fname>Н. И.</fname>
+                <auadr>Калуга</auadr>
+                <auwork>Университет им. К. Э. Циолковского</auwork>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Savitkin</surname>
+                <fname>N. I.</fname>
+                <auadr>Kaluga</auadr>
+                <auwork>Kaluga State University after K. E. Tsiolkovsky</auwork>
+              </individInfo>
+            </author>
+            <author num="3">
+              <correspondent>0</correspondent>
+              <individInfo lang="RUS">
+                <surname>Толкачёва</surname>
+                <fname>Т. К.</fname>
+                <auadr>Калуга</auadr>
+              </individInfo>
+              <individInfo lang="ENG">
+                <surname>Tolkacheva</surname>
+                <fname>T. K.</fname>
+                <auadr>Kaluga</auadr>
+              </individInfo>
+            </author>
+          </authors>
+          <arttitles>
+            <arttitle lang="RUS">Развитие химических знаний в России до середины XVIII в.</arttitle>
+            <arttitle lang="ENG">Development of Chemical knowledge in Russia until the middle of the  XVIIIthcentury</arttitle>
+          </arttitles>
+          <abstracts>
+            <abstract lang="RUS">В работе проанализирован уровень развития химических знаний в  России  с  XI
+по середину XVIII в.  Показан  преимущественно  практический  характер  этих
+знаний: развиваются элементы технической и медицинской химии.</abstract>
+            <abstract lang="ENG">The level of Chemistry knowledge  in  Russia  of  the  XIth  –  mid  XVIIIth
+centuries is analyzed in this  work.  Mainly  practical  character  of  this
+knowledge  is  shown:  elements  of  Technical  and  Medical  Chemistry  are
+developing.</abstract>
+          </abstracts>
+          <arttype>RAR</arttype>
+          <text lang="RUS" arttype="RAR">Развитие химических знаний в России до середины XVIII в.
+
+           В работе проанализирован уровень развития химических знаний в  России  с  XI
+по середину XVIII в.  Показан  преимущественно  практический  характер  этих
+знаний: развиваются элементы технической и медицинской химии.
+
+          </text>
+          <keywords>
+            <kwdGroup lang="RUS">
+              <keyword>история  химии</keyword>
+              <keyword>  химические  ремёсла</keyword>
+              <keyword>  старейшие  химические   производства</keyword>
+              <keyword>развитие производств</keyword>
+            </kwdGroup>
+            <kwdGroup lang="ENG">
+              <keyword>The  history  of  chemistry</keyword>
+              <keyword>   chemistry   crafts</keyword>
+              <keyword>   the   oldest   chemicalmanufacturing</keyword>
+              <keyword> manufacturing development</keyword>
+            </kwdGroup>
+          </keywords>
+          <nobiblist />
+        </article>
+    </issue>
+  </journal>
+</journals>

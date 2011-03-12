@@ -1,0 +1,74 @@
+<% unless @article[:section_en].nil? or @article[:section_en].empty? %>
+  <h2> <%= @article[:section_en] %></h2>
+<% end %>
+
+<% unless @article[:title_en].nil? or @article[:title_en].empty? %>
+  <h3><%= @article[:title_en] %></h3>
+<% end %>
+
+<% fl = 0
+@article[:authors].each do |author|
+  author.each do |key,a|
+    fl = 1 if a != nil and a != ""
+    break
+  end
+  break if fl == 1
+end %>
+
+<% if fl == 1 %>
+  <div class="paragraph">
+    <div class="title">Authors:</div>
+    <% unless @article[:authors].nil? or @article[:authors].empty? %>
+      <% @article[:authors].each do |author| %>
+        <% arr_eng = [author[:name_en]] %>
+        <% if author[:name_en] =~ /(..?\. ?..?\..*\,? ? ?){2,}/ or author[:name_en] =~ /(.*..?\. ?..?\.,? ? ?){2,}/
+             arr_eng = author[:name_en].split(/[,;]/).map{|i| i.strip}.find_all{|i| i.size > 0}
+           end
+           for i in 0...arr_eng.size
+             eng = arr_eng[i]
+             fname = ""
+             surname = ""
+             if eng =~ /(..?\. ?..?\.)(.*)/
+               fname = $1.strip
+               surname = $2.strip
+             elsif eng =~ /(.*)(..?\. ?..?\.)/
+               fname = $2.strip
+               surname = $1.strip
+             end %>
+             <p>
+               <b><%= surname %> <%= fname %></b>.
+    
+               <% unless author[:adress_en].nil? or author[:adress_en].empty?  %>
+                 Adress: <%= author[:adress_en] %>.
+               <% end %>
+               <% unless author[:workplace_en].nil? or author[:workplace_en].empty?  %>
+                 Workplace: <%= author[:workplace_en] %>.
+               <% end %>
+             </p>
+           <% end %>
+        <% end %>
+      <% end %>
+    </div>
+<% end %>
+
+<% unless @article[:summary_en].nil? or @article[:summary_en].empty? %>
+  <div class="exampleblock">
+    <div class="title">Summary</div>
+    <div class="exampleblock-content">
+      <div class="paragraph">
+        <p><%= @article[:summary_en] %></p>
+      </div>
+    </div>  
+  </div>
+<% end %>
+
+<% unless @article[:keywords_en].nil? or @article[:keywords_en].empty? %>
+  <div class="paragraph">
+  <div class="title"> Keywords: </div>
+  <% unless @article[:keywords_en].nil? or @article[:keywords_en].empty? %>
+    <% @article[:keywords_en][0].capitalize! %>
+    <p> <%= @article[:keywords_en].join(", ") %>. </p>
+  <% end %>
+<% end %>
+
+<hr>

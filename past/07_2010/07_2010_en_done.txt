@@ -1,0 +1,464 @@
+_0.
+f) Название статьи:
+Международная химическая олимпиада: успехи, ошибки, разочарования
+
+g) title:
+International Chemical Olympiad: progress, mistakes, disappointments
+
+-
+_1.
+-
+_2.
+f) Название статьи:
+Получен элемент № 117
+
+g) title:
+Element # 117 has been isolated
+
+h) Аннотация:
+В подмосковной Дубне впервые получены атомы элемента № 117. До последнего
+времени исследования ученых из России, США, Германии, Швейцарии и некоторых
+других стран позволили получить информацию о существовании атомов элементов
+с атомными номерами вплоть до 118, но среди них не было атомов элемента №
+117.
+
+
+i) Summary:
+In the Moscow Region Town of Dubna atoms of element # 117 have been
+isolated for the first time ever. Until recently research of scientists
+from Russia, the USA, Germany, Switzerland, and some other countries
+allowed receiving the information regarding existence of atoms of elements
+with atomic numbers up to 118, but there were no any atoms of element # 117
+among them.
+
+
+-
+_3.
+f) Название статьи:
+К методике оценивания химических компетенций
+
+g) title:
+On methods of estimation of chemical competencies
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+АГПИ им. А. П. Гайдара
+
+-f0 Work place:
+Arzamas State Pedagogical Institute named after A.P. Gaidar
+
+-c0 Адрес(город):
+Арзамас
+
+-d0 Adress(City):
+Arzamas
+
+-
+_4.
+f) Название статьи:
+Об использовании элементов музейной педагогики на уроках химии
+
+g) title:
+About using elements of museum pedagogics at chemistry lessons
+
+e) Автор(ы)/Author(s):
+
+-c0 Адрес(город):
+г. Рыбинск
+
+-d0 Adress(City):
+the town of Rybinsk
+
+h) Аннотация:
+Один из путей развития общей культуры школьников – приобщение их к
+ценностям музеев родной школы и города. Включение элементов музейной
+педагогики в образовательный процесс активизирует школьников, мобилизует и
+развивает их способности, стимулирует любознательность. Автор рассказывает
+о возможности применения элементов музейной педагогики на уроках химии.
+
+i) Summary:
+One of the ways of developing fundamental culture of schoolchildren is
+getting them joined museum values of the native school and their town.
+Including elements of museum pedagogics into an educational process
+activates schoolchildren, mobilizes and develops their abilities, and
+stimulates curiosity. The author narrates about an opportunity of using
+elements of museum pedagogics at chemistry lessons.
+-
+_5.
+f) Название статьи:
+Коллективные способы обучения на занятиях по органической химии
+
+g) title:
+Team ways of training at organic chemistry classes
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Родниковская СШ
+
+-f0 Work place:
+Rodnikovskaya Secondary School
+
+-c0 Адрес(город):
+Соликамский р-н, Пермский край
+
+-d0 Adress(City):
+Solikamsky Region, Permsly Area
+
+h) Аннотация:
+Использование коллективых способов организации учебной деятельности  в
+полной мере позволяет решить непростые задачи формирования у учащихся не
+только способностей самостоятельно мыслить, добывать и применять знания, но
+и ключевых компетенций, включающих умения организовать собственную учебную
+деятельность, эффективно сотрудничать в разнообразных группах, быть
+открытыми для новых контактов, способность принимать ответственное решение
+в сложной ситуации. Приведены дидактические карточки для работы по методике
+взаимообмена заданиями по методике Ривина – Баженова при изучении
+углеводородов.
+
+i) Summary:
+Using team ways of organizing learning activity allows to the full extent
+to settle complex tasks of forming not only abilities of students to think
+independently, to get and apply knowledge, but also forming of key
+competencies, which include skills to organize their own learning activity,
+to collaborate in diversified teams, to be open for new contacts, and the
+ability to make decisions in a complicated situation. Didactic cards for
+working following methods of task mutual exchange based on Rivin-Bazhenov
+principles while studying hydrocarbons are offered.
+-
+_6.
+f) Название статьи:
+Интегративно-гуманитарный подход при изучении металлов
+
+g) title:
+Integrative and humanitarian approach while studying metals
+
+e) Автор(ы)/Author(s):
+
+-c0 Адрес(город):
+г. Челябинск
+
+-d0 Adress(City):
+Chelyabinsk
+
+h) Аннотация:
+Автор предлагает интегративно-гуманитарный подход к обучению химии, в
+основе которого лежит интеграция естественно-научных и гуманитарных знаний.
+Основным механизмом и средством интеграции при этом выступают внутри- и
+межпредметные связи. Приводит разработку обобщающего урока химии в 9 классе
+по теме «Металлы», построенного на основе интегративно-гуманитарного
+подхода.
+
+i) Summary:
+The author offers an integrative and humanitarian approach to teaching
+chemistry, in the basis of which there is an integration of natural and
+humanitarian knowledge, in which intra- and inter-subject connections play
+the role of the main mechanism and an integration mean. The author also
+provides a design of the feedback chemistry lesson in the 9th Form on the
+subject of “Metals” based on integrative and humanitarian approach.
+
+-
+_7.
+-
+_8.
+f) Название статьи:
+Как мы оформляем решение расчётных задач
+
+g) title:
+The way we present the solution of computative tasks
+
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Багдаринская эвенкийская школа-интернат
+
+-f0 Work place:
+Bagdarinskaya Evenki boarding school
+
+-c0 Адрес(город):
+республика Бурятия
+
+-d0 Adress(City):
+the Republic of Buryatiya
+
+h) Аннотация:
+Для оформления условия задачи автор предлагает использовать не краткую
+запись, как на уроках физики, а развёрнутую схему, отражающую суть
+химического процесса. Затем в ходе решения по схеме затем составляют
+уравнение реакции, обсуждают с учащимися порядок действий и оформляют его в
+виде логической цепочки решения (алгоритма), содержащего кроме порядка
+действий необходимые для расчёта формулы.
+
+i) Summary:
+To formulate task conditions, the author suggests, that they should use not
+the short form, as at physics lessons, but rather an expanded scheme, which
+reflects the essence of a chemical process. Then in the course of the task-
+solving they compile the equation, discuss with students the order of
+actions and formulate it in the form of a logical chain of solving
+(algorithm), which contains, except of the order of actions, necessary for
+calculations formulas.
+
+-
+_9.
+f) Название статьи:
+Тестовые задания по теме «Азот и его соединения»
+
+g) title:
+Test tasks on the subject of “Nitrogen and its compounds”
+
+e) Автор(ы)/Author(s):
+
+-c0 Адрес(город):
+с. Синегорье, Кировская обл.
+
+-d0 Adress(City):
+the settlement of Sinegorye, the Kirov Region
+
+h) Аннотация:
+Предложены три варианта разноуровневых тестовых заданий по теме «Азот и его
+соединения».
+
+i) Summary:
+Three variants of test tasks of different levels on the subject of
+“Nitrogen and its compounds” are offered.
+
+-
+_10.
+f) Название статьи:
+О содержании заданий ЕГЭ по органической химии
+
+g) title:
+About the content of organic chemistry tasks of the Unified State Exam
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Центр образования № 548 «Царицыно»
+
+-f0 Work place:
+Educational center # 548 “Tsaritsyno”
+
+-a0 ФИО:
+В. Б. Четверин
+
+-b0 Name:
+V. B. Chetverin
+
+h) Аннотация:
+В статье обсуждаются некоторые проблемы, связанные с использованием
+современных заданий ЕГЭ. В частности, анализируются конкретные примеры
+неточностей и ошибок, которые ещё встречаются даже в публикуемых образцах
+контрольных измерительных материалов. Высказывается ряд предложений по
+дальнейшему совершенствованию заданий.
+
+i) Summary:
+Certain problems connected with using modern tasks of the United State Exam
+are discussed in the article. Particularly, examples of indiscretions and
+mistakes, which can be still met even in the published samples of
+controlling and measuring materials. A number of suggestions is expressed
+on the further tasks improvement.
+
+-
+_11.
+f) Название статьи:
+М. А. Прокофьев: ученый, гражданин, просветитель
+
+g) title:
+M.A. Prokofiev: a scholar, a citizen, and a torch-bearer
+
+h) Аннотация:
+Статья посвящена 100-летию со дня рождения М. А. Прокофьева.
+
+i) Summary:
+The article is dedicated to the 100th anniversary since the birthday of
+M.A. Prokofiev.
+
+j) Ключевые слова:
+Михаил Алексеевич Прокофьев.
+
+k) Key words:
+Mikhail Alexeevich Prokofiev.
+
+-
+_12.
+f) Название статьи:
+Зависимость скорости реакции от температуры, или Кто прав: Вант-Гофф или
+Аррениус
+
+g) title:
+Dependence of a reaction speed on temperature, or Who is right: Van’t Hoff
+or Arrhenius
+
+h) Аннотация:
+В статье рассматривается, от каких факторов зависит скорость химических
+реакций, что такое энергия активации и почему катализатор ускоряет
+химический процесс.
+
+i) Summary:
+The article examines the forces, the speed of a chemical reaction depends
+on, what activation energy means, and why a catalyst accelerates a chemical
+process.
+
+-
+_13.
+f) Название статьи:
+Экологические аспекты совершенствования школьного химического эксперимента
+при развивающем обучении
+
+g) title:
+Ecological aspects of perfecting school chemical experiment when developing
+teaching.
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+МГОУ
+
+-f0 Work place:
+The Moscow State Open University
+
+
+h) Аннотация:
+Применение описанных в статье проблемных опытов активизирует мыслительную
+деятельность учащихся, способствует развитию их творческих способностей и
+повышает интерес к изучаемой науке. А экологические аспекты данной работы
+способствуют решению таких задач, как внедрение более безопасных химических
+опытов, сохранение здоровья учащихся.
+
+i) Summary:
+Applying described in the article problem experiments activates thinking
+activity of students, promotes their creative abilities, and increases
+their concern in the studied science, while ecological aspects encourage
+solving such tasks as introduction of safer chemical experiments and health
+protection of students.
+
+-
+_14.
+f) Название статьи:
+Фермент уреаза как объект ученического исследования
+
+g) title:
+Ferment urease as an object of student research
+
+h) Аннотация:
+Исследовательская и проектная деятельность школьников стала неотъемлемым
+атрибутом современной школы. Имеются направления исследований, которые
+вполне можно реализовать в скромно оснащённой школьной лаборатории. Одно из
+таких исследований ― изучение ферментативных реакций и свойств ферментов.
+Прекрасным объектом исследования служит фермент уреаза.
+
+i) Summary:
+Student research and project activity became an integrated attribute of a
+contemporary school. There are research directions, which can be easily
+implemented in a modesty equipped school laboratory. One of such
+investigations is studying fermentative reactions and ferment behavior. An
+excellent research object is ferment urease.
+
+-
+_15.
+f) Название статьи:
+демонстрация взаимодействия ионов Fe3+ с роданид-ионами
+
+g) title:
+demonstration of interaction between Fe3+ ions and rhodanate-ions
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Специализированный учебно-научный центр НГУ
+
+-f0 Work place:
+Designated training and scientific center of the Novosibirsk State
+University
+
+-c0 Адрес(город):
+Новосибирск
+
+-d0 Adress(City):
+Novosibirsk
+
+h) Аннотация:
+Реакция комплексообразования ионов Fe3+ с роданид-ионами очень красивая и
+познавательная. Этот демонстрационный эксперимент основан на различии
+цветов аква-ионов Fe3+, роданидного и фторидного комплексов. Аква-ион Fe3+
+имеет жёлтую, а в разбавленных растворах почти бесцветную окраску,
+роданидный комплекс очень интенсивно поглощает свет и имеет кроваво-красную
+окраску, фторидный комплекс в растворе бесцветен.
+
+i) Summary:
+A complex-forming reaction between Fe3+ ions and rhodanate-ions is very
+beautiful and cognitive. This demonstrational experiment is based on the
+difference of colors of Fe3+ aqua-ions, rhodanate, and fluoride complexes.
+Fe3+ aqua-ion features yellow color, while it is of almost achromatic in
+dilute solutions, a rhodanate complex absorbs light intensively and has
+bloody-red color, and fluoride complex is colorless in a solution.
+
+-
+_16.
+f) Название статьи:
+Тематический вечер «Ода мёду»
+
+g) title:
+Theme party “Ode to Honey”
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Социально-педагогическая академия
+
+-f0 Work place:
+Social and Pedagogical Academy
+
+-a0 ФИО:
+Б. В. Мартыненко, М. В. Михалёва, К. Н. Самойлова
+
+-b0 Name:
+B.V. Martynenko, M.V. Mikhaleva, K.N. Samoylova
+
+-c0 Адрес(город):
+г. Бирск
+
+-d0 Adress(City):
+the town of Birsk
+
+h) Аннотация:
+Несомненно, что сфера использования мёда как ценного продукта питания и
+эффективного оздоравливающего средства расширяется по мере познания
+человеком его свойств и возможностей в борьбе с отрицательными
+последствиями современных условий жизни. Мёд, к тому же, очень интересный и
+удобный объект исследовательской работы школьников на занятиях химического
+кружка или факультатива, имеющих экологическую направленность. Предложен
+сценарий тематического вечера, который является своеобразным итогом работы
+химического кружка.
+
+i) Summary:
+Without doubt the sphere of using honey as a food product and an effective
+revitalizing remedy keeps broadening out as far as a man cognizes its
+behavior and opportunities in a struggle against negative consequences of
+modern life conditions. Honey, furthermore, is a very interesting and
+convenient object of research work of students during classes of chemical
+circle or optional courses, focused on ecological issues. The scenario of a
+theme party, which is an original final result of the work of a chemical
+circle is offered.
+
+-
+_17.
+f) Название статьи:
+Кто вы, мистер Астон?
+
+g) title:
+Who are you, Mister Aston?
+
+h) Аннотация:
+В статье приведены факты из жизни лауреата Нобелевской премии Ф. У. Астона,
+рассказывается о его дружбе с Э. Резерфордом, описываются его научные
+изыскания.
+
+i) Summary:
+The article provides facts from the life of the winner of the Nobel Prize
+F.W. Aston, tells us about his friendship with Ernest Rutherford, and
+describes his scientific investigation.
+
+-
