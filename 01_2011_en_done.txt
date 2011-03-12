@@ -1,0 +1,429 @@
+_0.
+f) Название статьи:
+В новый год  не без хлопот...
+
+g) title:
+Entering New Year not without troubles
+
+h) Аннотация:
+Главный редактор журнала размышляет о преобразованиях в системе
+образования.
+
+i) Summary:
+The editor-in-chief reflects on reorganization in the system of education.
+
+-
+_1.
+f) Название статьи:
+Нобелевские лауреаты по химии 2010 г.
+
+g) title:
+The Nobel Laureates in Chemistry 2010
+
+h) Аннотация:
+Нобелевскую премию по химии 2010 г. получили учёные из Японии и США:  Ричард
+Хек, Эйити Нагиси (в русскоязычной научной литературе  его  фамилия  пишется
+«Негиши»)  и  Акира  Судзуки  награждены   за   разработку   «катализируемых
+палладием  реакций  кросс-сочетания».  Нобелевский  комитет  поясняет,   что
+лауреаты  «разработали  новые,  более  эффективные  пути  связывания  атомов
+углерода для синтеза сложных  молекул,  которые  могут  сделать  лучше  нашу
+повседневную жизнь».
+
+i) Summary:
+The Nobel Prize in Chemistry 2010 was awarded jointly to scholars from Japan and the USA:  to Richard F. Heck, Ei-ichi Negishi (in the Russian-language scientific literature his last name is spelled as «Negishi») and Akira Suzuki "for palladium-catalyzed cross couplings in organic synthesis"..  The Nobel Committee for Chemistry clarifies on the scholars «have developed new, more effective ways of cross coupling of atoms of carbon for synthesis of compound molecules, which can make our everyday life better».
+
+
+
+-
+_2.
+f) Название статьи:
+ЕГЭ-2011: документы, регламентирующие  структуру  и  содержание  контрольныхизмерительных материалов
+
+g) title:
+The Unified State Examination-2011: documents to govern structure and content of controlling and measuring materials
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Руководитель Федеральной комиссии по разработке КИМ для проведения ЕГЭ
+
+-f0 Work place:
+The Head of the Federal Commission on developing controlling and measuring materials to conduct the Unified State Examination
+
+h) Аннотация:
+Статья содержит обстоятельную информацию об официальных документах,  которые
+подготовлены Федеральной комиссией по разработке КИМ для проведения  ЕГЭ  по
+химии в 2011 г.:  кодификаторе элементов содержания и  требований  к  уровню
+подготовки  выпускников  общеобразовательных  учреждений,   спецификации   и
+демонстрационном варианте КИМ. Также приведен  план  экзаменационной  работы
+ЕГЭ 2011 г. Эти материалы помогут учителям  более  эффективно  ориентировать
+учебный процесс на усвоение учащимися основного содержания  школьного  курса
+химии,  а  также  подготовить   выпускников   к   успешной   сдаче  Единого
+государственного экзамена по химии в 2011 г.
+
+i) Summary:
+The article contains the circumstantial information on the official documents to be prepared by the Federal Commission on developing controlling and measuring materials to conduct the Unified State Examination on chemistry in 2011, such as: the codificator of elements of content and requirements to the level of preparation of graduates of the general educational institutions, the specification, and the demo-version of the controlling and measuring materials. The plan of exam paperwork of the Certified State Exam of 2011 is also offered. Those materials will help a teacher to get an academic process oriented on mastering the school course of chemistry by students more effectively as to get those who are about to finish school to pass the Unified State Exam on Chemisry-2011 successfully as well.
+
+-
+_3.
+f) Название статьи:
+К изучению правила Марковникова
+
+g) title:
+On studying the Markovnikov’s rule
+
+-
+_4.
+f) Название статьи:
+Учебник, который мы выбираем
+
+g) title:
+The textbook we choose
+
+h) Аннотация:
+Авторы учебников, включённых в ныне действующий Федеральный перечень
+учебников, рекомендованных Министерством образования и науки Российской
+Федерации к использованию в образоваттельном процессе в общеобразовательных
+учреждениях, отвечают на вопросы редакции.
+
+i) Summary:
+The authors of textbooks, included into the active Federal list of textbooks, recommended by the Ministry of Education and Science to use in the educational process in educational institutions, answer the editorial staff questions. 
+
+-
+_5.
+f) Название статьи:
+Урок по теме «Железо и его соединения»
+
+g) title:
+The lesson on the subject of “Ferrum and its compounds”
+
+e) Автор(ы)/Author(s):
+
+-c0 Адрес(город):
+с. Красная Горка, Пензенская обл.
+
+-d0 Adress(City):
+The village of Krasnaya Gorka (the Red Hill), the Penza region
+
+h) Аннотация:
+Предложен урок, на котором учащиеся 9-го класса получают полное
+представление о железе как химическом элементе и простом веществе, а также
+о его соединениях.
+
+i) Summary:
+The lesson, during which the 9th Form students get the complete idea about ferrum as a chemical element as a substance and its compounds as well, is offered.
+
+-
+_6.
+f) Название статьи:
+Из опыта проведения уроков в 8-м классе
+
+g) title:
+Sharing the experience of conducting lessons in the 8th Form
+
+e) Автор(ы)/Author(s):
+
+-c0 Адрес(город):
+г. Октябрьск, Самарская обл.
+
+-d0 Adress(City):
+The town of Oktyabr’sk, the Samara region
+
+-c1 Адрес(город):
+г. Вологда
+
+-d1 Adress(City):
+Vologda
+
+-e2 Место работы:
+СШ № 9 «Образовательный центр»
+
+-f2 Work place:
+Secondary School # 9 “Educational Center”
+
+-c2 Адрес(город):
+г. Октябрьск, Самарская обл.
+
+-d2 Adress(City):
+The town of Oktyabr’sk, the Samara region
+
+h) Аннотация:
+Предложены  разработки  уроков  по  теме  «Важнейшие  классы  неорганических
+соединений», в частности, с   использованием технологии здоровьесбережения.
+
+i) Summary:
+Designs of lessons on the subject of “The most important classes of inorganic compounds”, and using health-saving technologies, in particular, are offered.
+
+-
+_7.
+f) Название статьи:
+Урок - ролевая игра  «Влияние медицинских препаратов на здоровье человека»
+
+g) title:
+Role-playing game “Influencing man’s health by medical drugs”
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Политехнический лицей
+
+-f0 Work place:
+Polytechnic Lyceum
+
+-a0 ФИО:
+О. В. Кузьмина, Е. И. Беляева
+
+-b0 Name:
+O. Vl. Kuzmina, Ye. J. Belyaeva
+
+
+-c0 Адрес(город):
+Мурманск
+
+-d0 Adress(City):
+Murmansk
+
+h) Аннотация:
+Предлагаемая ролевая игра позволяет не только расширить  и  углубить  знания
+учащихся по теме «Карбоновые кислоты», но и раскрыть роль химических  знаний
+в решении  важных  проблем,  провести  профориентационную  работу.  Учащиеся
+играют роли врачей химико-биологической  лаборатории  (две  группы),  членов
+экспертной комиссии (две группы),  двух  пациентов,  а  учитель  -  главного
+врача поликлиники.
+
+i) Summary:
+The offered role-playing game allows not only to extend and make the students’ knowledge on the subject of “Carboxylic Acids” be more profound, but also to discover the role of chemical knowledge to decide important issues, and to conduct profession oriented work. Students play roles of medical doctors of a chemical and biological laboratory (two groups), expert commission members (two groups), two patients, while a teacher plays the role of an ambulance doctor-in-chief.
+
+-
+_8.
+f) Название статьи:
+Межпредметные связи как основа развития активной познавательнойдеятельности
+
+g) title:
+Cross-subject connections as the basis to develop active cognitive activity
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Бакинский государственный университет
+
+-f0 Work place:
+The Baku State University
+
+-c0 Адрес(город):
+Баку
+
+-d0 Adress(City):
+Baku
+
+-
+_9.
+f) Название статьи:
+Как мы решаем задачи на определение формулы органического вещества
+
+g) title:
+The way we solve tasks to determine the organic substance formula 
+
+e) Автор(ы)/Author(s):
+
+-c0 Адрес(город):
+г. Сургут, Тюменская обл.
+
+-d0 Adress(City):
+Surget, the Tyumen’ region
+
+h) Аннотация:
+В статье предложен один из способов решения  задач  на  определение  формулы
+органического вещества.
+
+
+
+.i) Summary:
+
+i) Summary:
+
+
+The article offers one of the ways of task-solutions, when determining the formula of an organic substance.
+-
+_10.
+f) Название статьи:
+Коррозия металлов:  теория и практика
+
+g) title:
+Metal corrosion: theory and practice
+
+-
+_11.
+f) Название статьи:
+Мониторинг загрязнения окружающей среды по физико-химическим характеристикам почвы
+
+g) title:
+Monitoring environmental pollution according to the physical and chemical soil behavior
+
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Педагогический университет
+
+-f0 Work place:
+The Pedagogical University
+
+-c0 Адрес(город):
+Мурманск
+
+-d0 Adress(City):
+Murmansk
+
+-e1 Место работы:
+Гатчинская гимназия им. К. Д. Ушинского
+
+-f1 Work place:
+The Gatchina Gymnasium named after K. Dm. Ushinsky
+
+-a1 ФИО:
+М. В. Рязанцева
+
+-b1 Name:
+M. V. Ryazantseva
+
+
+-c1 Адрес(город):
+г. Гатчина, Ленинградская обл.
+
+-d1 Adress(City):
+The town of Gatchina, the Leningrad region
+
+h) Аннотация:
+Предлагается  эксперимент  по  изучению  антропогенного  загрязнения  почвы,
+который можно  проводить  на  пришкольном  участке,  в  парке,  лесу  или  в
+школьной лаборатории. Рассмотренные методы изучения почвы  вполне  доступны,
+обеспечены наглядностью, не  требуют  дорогостоящей  материально-технической
+базы и вполне могут проводиться учащимися 8-го класса самостоятельно.
+
+i) Summary:
+The experiment on studying anthropogenic soil pollution, which is possible to conduct on the near-the-school territory, in a park, forest, or in the school lab, is offered. The examined ways of soil research are quite accessible, possess demonstrativeness, do not demand costly material and technical base and can be conducted by the 8th Form students independently.
+
+
+-
+
+_12.
+f) Название статьи:
+Защита документов от подделки с использованием цветных реакций
+
+g) title:
+Protection of documents from being forged using color reactions
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Технологический университет
+
+-f0 Work place:
+The Technological University
+
+-a0 ФИО:
+В. К. Половняк, Д. Ф. Хаибрахманова
+
+-b0 Name:
+V. K. Polovnyak, D. F. Haibrakhmanova 
+
+-c0 Адрес(город):
+Казань
+
+-d0 Adress(City):
+Kazan
+
+h) Аннотация:
+Тиражируемые документы  –  бюллетени  для  голосования,  лотерейные  билеты,
+банковские  документы,  всевозможные  бланки  часто  подделывают  с  помощью
+ксерокопирования. Чтобы избежать этого и  защитить  документы  от  подделки,
+можно  использовать  цветные  химические  реакции.   Рассмотрены   некоторые
+цветные реакции ионов Fe2+ и Fe3+, которые потенциально  можно  использовать
+для химической защиты документов от подделки.
+
+i) Summary:
+Replicated documents, such as voting bulletins, lottery tickets, bank documents, various letterheads, are often forged with the help of xeroxing. To avoid this and to protect documents from being faked, color chemical reactions can be used. Some color reactions of ions Fe2+ and Fe3+, which are potentially can be used for chemical protection of documents from being faked, are examined.
+
+-
+_13.
+f) Название статьи:
+Из опыта проведения недели химии
+
+g) title:
+Sharing th experience of conducting the chemistry week
+
+
+e) Автор(ы)/Author(s):
+
+-c0 Адрес(город):
+п. Речной, Кировская обл.
+
+-d0 Adress(City):
+Township Rechnoy, the Kirov region
+
+h) Аннотация:
+В данной статье описывается подготовка к  неделе химии  в  школе,  программа
+проводимых мероприятий в  рамках  недели,  включающая  подробную  разработку
+классного часа «Посвящение в химики». Внеклассное мероприятие  предназначено
+для проведения в 8-х классах, но данную разработку можно использовать и в 7-
+х классах, если учащиеся приступили к ознакомительному курсу химии.
+
+i) Summary:
+The given article describes the preparation to the chemistry week at school, the program of events to be conducted within the framework of the week, including the detailed design of class hour “Admission to chemists”. This post-curriculum event is assigned to be conducted in the 8th Form, but the given design can be used in the 7th Form also, if the introductory course of chemistry has already been taught to students.
+
+-
+_14.
+f) Название статьи:
+Использование тематических викторин в практике обучения
+
+g) title:
+Using theme quizzes in teaching practice
+
+e) Автор(ы)/Author(s):
+
+-e0 Место работы:
+Лицей № 44
+
+-f0 Work place:
+Lyceum # 44
+
+-c0 Адрес(город):
+г. Чебоксары
+
+-d0 Address(City):
+Cheboksary
+
+h) Аннотация:
+Предложены вопросы тематической викторины «Элементы, металлы и неметаллы»
+для учащихся 9-го класса.
+
+i) Summary:
+Theme quiz “Elements, metals, and non-metals” questions are offered.
+
+-
+_15.
+f) Название статьи:
+Чем занять ученика
+
+g) title:
+How to keep a student busy
+
+e) Автор(ы)/Author(s):
+
+-c0 Адрес(город):
+г. Воронеж
+
+-d0 Adress(City):
+Voronezh
+
+h) Аннотация:
+
+i) Summary:
+For students to remember better and to use correctly in the future terms and definitions, the tasks are developed, which assume filling in lacunes in text.
+
+
+-
+_16.
+-
+
