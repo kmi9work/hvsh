@@ -63,16 +63,8 @@ def output_xml (articles)
       index = 1
       if article[:authors] != nil and article[:authors] != [] and article[:authors] != ""
         article[:authors].each do |author|
-          arr_rus = [author[:name_rus]]
-          arr_en = [author[:name_en]]
-          if author[:name_rus] =~ /(..?\. ?..?\..*\,? ? ?){2,}/ or author[:name_rus] =~ /(.*..?\. ?..?\.,? ? ?){2,}/
-            arr_rus = author[:name_rus].split(/[,;]/).map{|i| i.strip}.find_all{|i| i.size > 0}
-            if author[:name_en] =~ /(..?\. ?..?\..*\,? ? ?){2,}/ or author[:name_en] =~ /(.*..?\. ?..?\.,? ? ?){2,}/
-              arr_en = author[:name_en].split(/[,;]/).map{|i| i.strip}.find_all{|i| i.size > 0}
-            else
-              $stderr.puts "1:FATAL ERROR IN AUTHORS!!! English not same as russian:\nRUS: #{author[:name_rus]}\nENG: #{author[:name_en]}"
-            end
-          end
+          arr_rus = author[:name_rus].split(/[,;]/).map{|i| i.strip}.find_all{|i| i.size > 0}
+          arr_en = author[:name_en].split(/[,;]/).map{|i| i.strip}.find_all{|i| i.size > 0}
           if arr_rus.size != arr_en.size
             $stderr.puts "2:FATAL ERROR IN AUTHORS!!! English not same as russian:\nRUS: #{author[:name_rus]}\nENG: #{author[:name_en]}"
           end
@@ -84,16 +76,27 @@ def output_xml (articles)
             #RUS
             @fxml.puts_utf16 "              <individInfo lang=\"RUS\">"
             fname = ""
-            surname = ""
-            if rus =~ /(.\. ?.\.)(.*)/
+            surname = ""  
+            if rus =~ /^(.\. ?.\.)(.+)$/
               fname = $1.strip
               surname = $2.strip
-            elsif rus =~ /(.*)(.\. ?.\.)/
+            elsif rus =~ /^(.+)(.\. ?.\.)$/
               fname = $2.strip
               surname = $1.strip
             else
-              $stderr.puts "4:FATAL ERROR IN AUTHORS!!! #{rus}"
-              p article
+              if rus =~ /^(.\.)(.*)$/
+                fname = $1.strip
+                surname = $2.strip
+              elsif rus =~ /^(.*)(.\.)$/
+                fname = $2.strip
+                surname = $1.strip
+              end
+              while true
+                puts "Is it right(y/n)? rus: #{rus}, fname: #{fname}, surname: #{surname}"
+                s = $stdin.gets
+                break if s =~ /y/
+                exit if s =~ /n/
+              end
             end
             @fxml.puts_utf16 "                <surname>#{surname}</surname>"
             @fxml.puts_utf16 "                <fname>#{fname}</fname>"
@@ -108,14 +111,26 @@ def output_xml (articles)
             @fxml.puts_utf16 "              <individInfo lang=\"ENG\">"
             fname = ""
             surname = ""
-            if eng =~ /(..?\. ?..?\.)(.+)/
+            if eng =~ /^(..?\. ?..?\.)(.+)$/
               fname = $1.strip
               surname = $2.strip
-            elsif eng =~ /(.+)(..?\. ?..?\.)/
+            elsif eng =~ /^(.+)(..?\. ?..?\.)$/
               fname = $2.strip
               surname = $1.strip
             else
-              $stderr.puts "#{$.} - 3:FATAL ERROR IN AUTHORS!!! #{eng.inspect}"
+              if eng =~ /^(.\.)(.*)$/
+                fname = $1.strip
+                surname = $2.strip
+              elsif eng =~ /^(.*)(.\.)$/
+                fname = $2.strip
+                surname = $1.strip
+              end
+              while true
+                puts "Is it right(y/n)? rus: #{eng}, fname: #{fname}, surname: #{surname}"
+                s = $stdin.gets
+                break if s =~ /y/
+                exit if s =~ /n/
+              end
             end
             @fxml.puts_utf16 "                <surname>#{surname}</surname>"
             @fxml.puts_utf16 "                <fname>#{fname}</fname>"
@@ -210,4 +225,5 @@ def output_xml (articles)
   @fxml.puts_utf16 '    </issue>'
   @fxml.puts_utf16 '  </journal>'
   @fxml.puts_utf16 '</journals>'
+  puts articles[-1][:pages][-1]
 end

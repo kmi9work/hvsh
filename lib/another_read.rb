@@ -67,11 +67,11 @@ def another_read (articles)
                   if article[:authors][author_index][AUTHOR_SYM[nstr]] == nil or article[:authors][author_index][AUTHOR_SYM[nstr]] == ""
                     article[:authors][author_index][AUTHOR_SYM[nstr]] = str.strip
                   else
-                    article[:authors].each do |aa|
-                      if aa[AUTHOR_SYM[nstr]] == nil or aa[AUTHOR_SYM[nstr]] == ""
-                        aa[AUTHOR_SYM[nstr]] = str.strip
-                      end
-                    end  
+                    # article[:authors].each do |aa|
+                    #                       if aa[AUTHOR_SYM[nstr]] == nil or aa[AUTHOR_SYM[nstr]] == ""
+                    #                         aa[AUTHOR_SYM[nstr]] = str.strip #ERROR
+                    #                       end
+                    #                     end  
                   end  
                   str = ""
                 end

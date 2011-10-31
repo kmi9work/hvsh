@@ -117,7 +117,7 @@
             @fout.puts_utf16 "j) Ключевые слова:"
             j = 0
             for j in 0...articles[i][:keywords_rus].size - 1
-              @fout.print_utf16_utf16 "#{articles[i][:keywords_rus][j]}, "
+              @fout.print_utf16 "#{articles[i][:keywords_rus][j]}, "
             end
             @fout.print_utf16 "#{articles[i][:keywords_rus][-1]}.\n"
             @fout.puts_utf16 ""

@@ -191,7 +191,7 @@ def main_read
             while @fin.gets
               if $_ =~ /^-/
                 if str.strip.size < 1
-                  @flog.puts_utf16 "main_read. 14: Error in line #{$.}: #{$_.chomp}\nNo author #{nstr}." if @flog
+                  @flog.puts_utf16 "main_read. 14: Error in line #{$.}: #{$_.chomp}\nNo author #{AUTHOR_SYM[nstr]}." if @flog
                 else
                   article[:authors][author_index][AUTHOR_SYM[nstr]] = str.strip
                   str = ""
@@ -200,12 +200,12 @@ def main_read
               end
               if $_ =~ /^[a-l]\)/
                 if str.strip.size < 1
-                  @flog.puts_utf16 "main_read. 14: Error in line #{$.}: #{$_.chomp}\nNo author #{nstr}." if @flog
+                  @flog.puts_utf16 "main_read. 14: Error in line #{$.}: #{$_.chomp}\nNo author #{AUTHOR_SYM[nstr]}." if @flog
                 else
                   article[:authors][author_index][AUTHOR_SYM[nstr]] = str.strip
                 end
                 if nstr != 5
-                  $stderr.puts "main_read. 16: Error in line #{$.}: #{$_.chomp}\nWrong number of Author: #{nstr}."
+                  $stderr.puts "main_read. 16: Error in line #{$.}: #{$_.chomp}\nWrong number of Author: #{AUTHOR_SYM[nstr]}."
                 end
                 break
               end
@@ -220,7 +220,6 @@ def main_read
             @fin.gets
           end
         end
-
       elsif $1 == "f"
   ##################title_rus
         str = ""

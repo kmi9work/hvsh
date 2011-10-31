@@ -65,18 +65,24 @@ def check (articles, number_name)
           $stderr.puts "FATAL!!! No name_en in authors(#{i}). in #{index}."
         else
           unless author[:name_en] =~ /(..?\. ?..?\..*\,? ? ?)+/ or author[:name_en] =~ /(.*..?\. ?..?\.,? ? ?)+/
-            $stderr.puts "FATAL!!! Wrong name_en in authors(#{i}). in #{index}. name: #{author[:name_en]}"
+            unless author[:name_en] =~ /(.\.)(.*)/ or author[:name_en] =~ /(.*)(.\.)/
+              $stderr.puts "FATAL!!! Wrong name_en in authors(#{i}). in #{index}. name: #{author[:name_en]}"
+            else
+              $stderr.puts "Strange name_en in authors(#{i}). in #{index}. name: #{author[:name_en]}"
+            end
           end
         end
         if author[:name_rus].nil? or author[:name_rus].empty?
           $stderr.puts "FATAL!!! No name_rus in authors(#{i}). in #{index}."
         else
           unless author[:name_rus] =~ /(..?\. ?..?\..*\,? ? ?)+/ or author[:name_rus] =~ /(.*..?\. ?..?\.,? ? ?)+/
-            $stderr.puts "FATAL!!! Wrong name_rus in authors(#{i}). in #{index}. name: #{author[:name_rus]}"
+            unless author[:name_rus] =~ /(.\.)(.*)/ or author[:name_rus] =~ /(.*)(.\.)/
+              $stderr.puts "FATAL!!! Wrong name_rus in authors(#{i}). in #{index}. name: #{author[:name_rus]}"
+            else 
+              $stderr.puts "Strange name_rus in authors(#{i}). in #{index}. name: #{author[:name_rus]}"
+            end
           end
         end
-
-
 
         if (author[:adress_en].nil? or author[:adress_en].empty?) and !(author[:adress_rus].nil? or author[:adress_rus].empty?)
           $stderr.puts "FATAL!!! No adress_en, but there is adress_rus. in authors(#{i}) in #{index}."
@@ -86,10 +92,11 @@ def check (articles, number_name)
         end
 
         if (author[:workplace_en].nil? or author[:workplace_en].empty?) and !(author[:workplace_rus].nil? or author[:workplace_rus].empty?)
-          $stderr.puts "FATAL!!! No workplace_en, but there is workplace_rus. in authors(#{i}) in #{index}."
+          $stderr.puts "FATAL!!! No workplace_en, but there is workplace_rus. in authors(#{i}) in #{index}: #{author[:workplace_rus]}"
+          
         end
         if !(author[:workplace_en].nil? or author[:workplace_en].empty?) and (author[:workplace_rus].nil? or author[:workplace_rus].empty?)
-          $stderr.puts "FATAL!!! No workplace_rus, but there is workplace_en. in authors(#{i}) in #{index}."
+          $stderr.puts "FATAL!!! No workplace_rus, but there is workplace_en. in authors(#{i}) in #{index}: #{author[:workplace_en]}."
         end  
       end
     else

@@ -52,7 +52,7 @@ b) Section:
 Science and Industry
 
 c) Страницы:
-3¬7
+3-7
 
 d) Тип статьи(RAR — научная, REV — обзорная):
 RAR
@@ -159,8 +159,10 @@ ABS
 e) Автор(ы)/Author(s):
 
 -a ФИО:
+О. С. Габриелян
 
 -b Name:
+O. S. Gabrielian
 
 -c Адрес(город):
 
@@ -449,7 +451,7 @@ Moscow
 -f Work place:
 Secondary school № 838
 
-a ФИО:
+-a ФИО:
 Г. М. Курдюмов
 
 -b Name:
@@ -516,10 +518,11 @@ e) Автор(ы)/Author(s):
 -f Work place:
 Secondary school
 
-a ФИО:
+-a ФИО:
 Г. М. Карпов
 
 -b Name:
+G. M. Karpov
 
 -c Адрес(город):
 Нижний Новгород

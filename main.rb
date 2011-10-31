@@ -1,4 +1,4 @@
- # encoding: utf-8
+# encoding: utf-8
 require 'iconv'
 require 'rubygems'
 #require 'ruby-debug'
@@ -73,7 +73,7 @@ while i < ARGV.size
     printf("%22s = %s\n", "-e file", "Make for english")
     printf("%22s = %s\n", "-s file", "Make from several")
     printf("%22s = %s\n", "-ch number_name (nn_yyyy)", "Check number")
-    printf("%22s = %s\n", "-xml file", "Output xml if file")
+    printf("%22s = %s\n", "-xml file", "Output xml if file(_unicode.xml)")
     printf("%22s = %s\n", "-f file", "Main file. Don't use with -doc.")
     printf("%22s = %s\n", "-no log_file", "Output NoItem in log_file" )
     printf("%22s = %s\n", "-php file_rus file_eng", "Make php in files" )
@@ -161,6 +161,8 @@ while i < ARGV.size
   end
   i += 1
 end
+
+@flog ||= File.new("log.log","w")
 
 case params[:pr_type]
 when 0

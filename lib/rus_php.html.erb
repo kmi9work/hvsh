@@ -35,7 +35,13 @@ end %>
                fname = $2.strip
                surname = $1.strip
              else
-               $stderr.puts "4:FATAL ERROR IN AUTHORS!!! #{rus.inspect}"
+               if rus =~ /(.\.)(.*)/
+                  fname = $1.strip
+                  surname = $2.strip
+                elsif rus =~ /(.*)(.\.)/
+                  fname = $2.strip
+                  surname = $1.strip
+                end
              end %>
              <p>
                <b><%= surname %> <%= fname %></b>.

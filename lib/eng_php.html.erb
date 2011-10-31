@@ -34,6 +34,14 @@ end %>
              elsif eng =~ /(.*)(..?\. ?..?\.)/
                fname = $2.strip
                surname = $1.strip
+             else
+               if eng =~ /(.\.)(.*)/
+                  fname = $1.strip
+                  surname = $2.strip
+                elsif eng =~ /(.*)(.\.)/
+                  fname = $2.strip
+                  surname = $1.strip
+                end
              end %>
              <p>
                <b><%= surname %> <%= fname %></b>.
